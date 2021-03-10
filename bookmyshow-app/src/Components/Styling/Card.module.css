@@ -1,0 +1,27 @@
+.card {
+	width: 40%;
+	margin: 20px;
+	font-family: Roboto, sans-serif;
+	transition: .3s;
+}
+.card img {
+	width: 40%;
+	border-radius: 10px;
+}
+.title {
+	width: 40%;
+	font-weight: 600;
+	color: #333;
+	font-size: 1.2rem;
+	margin: 10px 0;
+	/* line-height: 40px; */
+}
+.genre {
+	width: 40%;
+	word-break: break-word;
+	color: rgb(102, 102, 102);
+	/* font-family: Roboto; */
+	font-size: .9rem;
+	line-height: 1.5;
+	font-weight: 550;
+}
