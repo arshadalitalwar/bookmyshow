@@ -162,13 +162,13 @@ const Navbar = () => {
                     />
                     </DialogContentText>
                     <div>Popular cities</div>
-                    {location.map((loc) => (
-                        <div >
-                            <img onClick={() => handleLocation(loc.name)} src={loc.link} alt={loc.name} />
-                            <div>{ loc.name }</div>
-                        </div>
-                    ))}
-                
+                        <div style={{display:'flex', flexWrap:'wrap', alignItems:'baseline', textAlign:'center'}} >{location.map((loc) => (
+                            <div style={{margin:'2px'}}>
+                                <img onClick={() => handleLocation(loc.name)} src={loc.link} alt={loc.name} />
+                                <div>{ loc.name }</div>
+                            </div>
+                        ))}
+                    </div>
                 </DialogContent>
             </Dialog>
             <div className={styles.secondNav}>
