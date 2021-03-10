@@ -1,0 +1,152 @@
+a {
+	color: red;
+	text-decoration: none;
+}
+.privacy_policy {
+	font-size: 14px;
+	line-height: 18px;
+	text-align: justify;
+	color: rgb(127, 127, 127);
+	padding: 20px 80px;
+	background: #f2f2f2;
+}
+.privacy_policy > div:first-child {
+	font-size: 16px;
+	font-weight: 600;
+	margin-bottom: 10px;
+}
+.part1 {
+	display: flex;
+	align-items: center;
+	color: #e9e9ea;
+	background: #313035;
+	padding: 20px 80px;
+	height: 50px;
+	justify-content: space-between;
+}
+.part1 > div:first-child {
+	display: flex;
+	font-weight: 600;
+}
+.contact_button button {
+	border: none;
+	color: white;
+	background: #ec5e71;
+	font-size: 18px;
+	border-radius: 5px;
+	padding: 10px 20px;
+}
+
+.part2 {
+	background: #404043;
+	padding: 20px 80px;
+	height: 100px;
+	display: flex;
+	justify-content: space-around;
+}
+.part2 svg {
+	fill: #bdbdbe;
+}
+.part2 div:hover svg,
+.part2 div:hover div {
+	fill: #ffffff;
+	color: white;
+}
+
+.part2 div {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	color: #bdbdbe;
+}
+
+.part3 {
+	background: #333338;
+	padding: 20px 80px;
+}
+.part3 div > div:first-child {
+	color: #b4b2b2;
+	font-weight: 600;
+	text-transform: uppercase;
+	font-size: 16px;
+	margin-top: 25px;
+}
+.movies {
+	display: flex;
+	margin-top: 20px;
+	flex-wrap: wrap;
+}
+.link {
+	font-size: 12px;
+	line-height: 10px;
+	font-weight: 400;
+	letter-spacing: 0.1px;
+	text-transform: uppercase;
+	/* margin: 0px 0px 20px; */
+	color: #a5a5a5;
+	text-decoration: none;
+	transition: .5s;
+}
+.link:hover {
+	color: white;
+}
+.line {
+	height: 15px;
+	width: 1px;
+	background: #a5a5a5;
+	margin: 0 5px;
+}
+
+.part4 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 20px 40px;
+	background: #333338;
+}
+.part4 img {
+	width: 150px;
+	margin: 0 10px;
+}
+.part4 div {
+	width: 45%;
+	height: 1px;
+	background: rgb(100, 100, 100);
+}
+
+.part5 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 20px 40px;
+	background: #333338;
+}
+.part5 svg {
+	width: 45px;
+	fill: rgb(93, 93, 95);
+	transition: .3s;
+	margin: 10px;
+}
+.part5 svg:hover {
+	fill: white;
+}
+
+.part6 {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding: 20px 50px;
+	background: #333338;
+}
+.part6 {
+	border: 0;
+	font-weight: 400;
+	vertical-align: initial;
+	font-size: 12px;
+	font-weight: 600;
+	color: rgb(93, 93, 95);
+	margin: auto;
+	padding-bottom: 50px;
+	text-align: center;
+}
