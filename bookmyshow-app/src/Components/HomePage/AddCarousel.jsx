@@ -1,6 +1,6 @@
 import React from "react";
-import { Carousel } from "antd";
-import 'antd/dist/antd.css';
+import Carousel from 'react-multi-carousel';
+import 'react-multi-carousel/lib/styles.css';
 
 const dataList = [
     "https://in.bmscdn.com/showcaseimage/eventimage/music-jam-09-03-2021-10-12-30-104.jpg",
@@ -14,22 +14,32 @@ const dataList = [
 
 export const AddCarousel = () => {
 
-    const settings = {
-        dots: true,
-        infinite: true,
-        speed: 2000,
-        slidesToShow: 2,
-        centerMode: true,
-        swipeToSlide: true
-    }
+    const responsive = {
+        superLargeDesktop: {
+            breakpoint: { max: 4000, min: 3000 },
+            items: 2
+        },
+        desktop: {
+            breakpoint: { max: 3000, min: 1024 },
+            items: 2
+        },
+        tablet: {
+            breakpoint: { max: 1024, min: 464 },
+            items: 2
+        },
+        mobile: {
+            breakpoint: { max: 464, min: 0 },
+            items: 1
+        }
+    };
 
     return (
         <div style={{ padding: "5px 0px" }}>
-            <Carousel autoplay centerPadding="0" {...settings}>
+            <Carousel responsive={responsive} removeArrowOnDeviceType={["mobile"]} autoPlay infinite>
                 {
                     dataList?.map((banner, index) => (
                         <div style={{ padding: "0px 15px" }} key={index + 1}>
-                            <img style={{ width: 755, height: 280, cursor: "pointer" }} src={banner} alt="Advertisement banner" />
+                            <img style={{ width: "102%", cursor: "pointer" }} src={banner} alt="Advertisement banner" />
                         </div>
                     ))
                 }
