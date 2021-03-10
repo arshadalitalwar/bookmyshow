@@ -1,2 +1,134 @@
 body {
 }
+
+.navbar {
+	top: 0;
+	left: 0;
+	height: 70px;
+	background-color: #333545;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	/* width: 100%; */
+	padding: 0 80px;
+}
+.link {
+	text-decoration: none;
+	color: white;
+	margin: 10px;
+	opacity: .8;
+	font-weight: 400;
+}
+.link:hover {
+	opacity: 1;
+}
+.logo {
+	width: 130px;
+	margin-left: -10px;
+}
+.searchBar {
+	background: white;
+	width: 60%;
+	height: 40px;
+	display: flex;
+	align-items: center;
+	border-radius: 5px;
+	padding: 0 10px;
+	margin: 0 20px;
+}
+.searchBar input {
+	border: none;
+	background: none;
+	margin: 0 10px;
+	outline: none;
+	width: 70%;
+	height: 30px;
+}
+::placeholder {
+	color: #9b9b9b;
+}
+.Dialog {
+	margin: auto;
+	width: 90%;
+}
+.location {
+	display: flex;
+	color: white;
+	cursor: pointer;
+	margin: 0 20px;
+}
+.location_content {
+	display: flex;
+	align-items: center;
+	border: 1px solid #eee;
+	padding: 0 10px;
+}
+.location_content input {
+	margin: 0 20px;
+}
+.Dialog img {
+	width: 80px;
+	margin: 10px;
+}
+.profile {
+	display: flex;
+	align-items: center;
+	color: white;
+	cursor: pointer;
+}
+.profile div {
+	margin: 0 10px;
+}
+
+.secondNav {
+	background: #222539;
+	height: 45px;
+	padding: 0 80px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	font-size: 16px;
+}
+
+.drawer {
+	width: 350px;
+	height: 70px;
+	background: #2e3147;
+	padding: 0 20px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	color: white;
+}
+.drawer > div:first-child {
+	font-size: 23px;
+	font-weight: 600;
+}
+
+.sideber_content div {
+	height: 65px;
+	display: flex;
+	align-items: center;
+	border-bottom: 1px solid #eee;
+	padding: 0 20px;
+	font-size: 18px;
+}
+.sideber_content span {
+	margin-left: 20px;
+}
+.sideber_content div:hover {
+	background: #eee;
+}
+.signout_button {
+}
+.signout_button button {
+	width: 105%;
+	height: 50px;
+	margin: 5px auto;
+	border: 1px solid red;
+	border-radius: 5px;
+	color: red;
+	outline: none;
+	background: none;
+	font-size: 18px;
+}
