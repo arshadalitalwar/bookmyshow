@@ -3,6 +3,7 @@
 	margin: 20px;
 	font-family: Roboto, sans-serif;
 	transition: .3s;
+	cursor: pointer;
 }
 .card img {
 	width: 40%;

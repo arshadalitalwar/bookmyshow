@@ -16,7 +16,7 @@ const Card = ({ banner_image_url="https://in.bmscdn.com/discovery-catalog/events
         <div className={styles.card}> 
             <img src={banner_image_url} alt={movie_name} />
             <div className={styles.title}>{ movie_name }</div>
-            <div className={styles.genre}>{movie_genre?.map(genre=>genre.genre + "/")}</div>
+            <div className={styles.genre}>{movie_genre?.map((genre, index)=>index === movie_genre.length-1?genre.genre:genre.genre + "/")}</div>
         </div>
     )
 }

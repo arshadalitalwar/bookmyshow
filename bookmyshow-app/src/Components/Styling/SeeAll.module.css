@@ -1,0 +1,52 @@
+body {
+	background: #eee;
+}
+.container {
+	padding: 80px 100px;
+	background: lemonchiffon;
+}
+.leftsideNav {
+	max-width: 25%;
+}
+.leftsideNav div {
+	margin: 10px 0;
+	background: white;
+}
+.header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 5px 20px;
+	cursor: pointer;
+}
+.header > div:first-child {
+	display: flex;
+	width: 110px;
+	padding-right: 80px;
+}
+
+.header > div:first-child svg {
+	width: 15px;
+}
+.header > div:last-child {
+	font-size: 13px;
+}
+.header > div:last-child:hover {
+	color: #e67088;
+}
+.dialogue {
+	max-width: 100%;
+	padding: 20px;
+	display: flex;
+	flex-wrap: wrap;
+}
+.dialogue button {
+	padding: 10px 20px;
+	color: #e67088;
+	border: 1px solid #eee;
+	background: none;
+	outline: none;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	cursor: pointer;
+}
