@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 const Footer = () => {
     return (
         <div>
-            <span>Home</span>
+            {/* <span>Home</span> */}
             <div className={styles.privacy_policy}>
                 <div>Privacy Note</div>
                 <div>

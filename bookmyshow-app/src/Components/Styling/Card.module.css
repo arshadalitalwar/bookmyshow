@@ -4,11 +4,13 @@
 	font-family: Roboto, sans-serif;
 	transition: .3s;
 }
+
 .card img {
 	width: 100%;
 	height: 350px;
 	border-radius: 10px;
 }
+
 .title {
 	width: 100%;
 	font-weight: 600;
@@ -17,6 +19,7 @@
 	margin: 10px 0;
 	/* line-height: 40px; */
 }
+
 .genre {
 	width: 100%;
 	word-break: break-word;
