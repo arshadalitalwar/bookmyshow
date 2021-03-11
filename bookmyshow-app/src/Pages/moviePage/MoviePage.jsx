@@ -10,6 +10,7 @@ import Backdrop from "@material-ui/core/Backdrop";
 import Fade from "@material-ui/core/Fade";
 import Typography from "@material-ui/core/Typography";
 import Slider from "@material-ui/core/Slider";
+import { RecommendedMovies } from "../../Components/HomePage/RecommendedMovies";
 function valuetext(value) {
   return `${value}`;
 }
@@ -57,7 +58,10 @@ const MoviePage = () => {
   const handleRating = () => {
     dispatch(
       putMovies(id, {
-        rating: { no_of_ratings: data.rating.no_of_ratings + 1 },
+        rating: {
+          percentage: data.rating.percentage,
+          no_of_ratings: data.rating.no_of_ratings + 1,
+        },
       })
     );
     setOpen(false);
@@ -87,7 +91,7 @@ const MoviePage = () => {
                   style={{ width: 40 }}
                 />
                 <h1>{data.rating.percentage}%</h1>
-                <p>{data.rating.no_of_ratings} Ratings</p>
+                <p>{Math.ceil(data.rating.no_of_ratings)} Ratings</p>
               </div>
               <div className="container__movieDetail_ratingButton">
                 <div>
@@ -251,6 +255,7 @@ const MoviePage = () => {
           </Fade>
         </Modal>
       </div>
+      <RecommendedMovies></RecommendedMovies>
     </div>
   );
 };
