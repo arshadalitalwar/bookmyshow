@@ -2,7 +2,7 @@ import React from 'react'
 import styles from '../Components/Styling/SeeAll.module.css'
 import { useDispatch, useSelector } from 'react-redux'
 import { getMovies } from "../Redux/app/actions"
-import Card from '../Components/Card'
+import Card from '../Components/Card_seeAll'
 
 const SeeAll = () => {
     const [language, SetLanguage] = React.useState(false);
