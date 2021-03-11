@@ -1,0 +1,144 @@
+.container {
+    width: 85%;
+    padding: 25px 0;
+    /* border: 1px solid red; */
+    margin: 20px auto;
+    background-color: white;
+}
+
+.container__info {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-bottom: 5px;
+    border-bottom: 1px solid rgba(182, 182, 182, 0.801);
+}
+
+.container__info>div {
+    width: 105px;
+    margin: 0 5px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 13px;
+}
+
+.container__card {
+    margin: 10px;
+    padding: 5px;
+    border-bottom: 1px solid rgba(182, 182, 182, 0.801);
+}
+
+.container__card__title {
+    width: fit-content;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.container__card__title>h4 {
+    margin: 0;
+    margin-bottom: 2px;
+}
+
+.container__card__title__icon {
+    font-size: 15px;
+    margin-right: 8px;
+    color: rgb(255, 232, 232);
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.container__card__info {
+    /* width: fit-content; */
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 10px 0;
+}
+
+.container__card__info>div {
+    margin-right: 10px;
+}
+
+.container__card__info__options {
+    display: flex;
+    width: 130px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container__card__info__options>div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container__card__info__options>div>span {
+    margin-left: 5px;
+}
+
+.container__card__info__times__container {
+    margin-left: 15%;
+}
+
+.container__card__info__times__container>div {
+    margin-bottom: 10px;
+    display: flex;
+}
+
+.container__card__info__times__container>div>div {
+    /* display: flex; */
+    position: relative;
+}
+
+.container__card__info__times__container .button {
+    background-color: transparent;
+    border: 1px solid gray;
+    padding: 10px 15px;
+    border-radius: 4px;
+    margin: 0 5px;
+    color: #4abd5d;
+    font-weight: 500;
+    cursor: pointer;
+    font-size: 13px;
+}
+
+.price__container {
+    display: flex;
+    display: none;
+    position: absolute;
+    top: -320%;
+    left: -100%;
+    background-color: white;
+    padding: 15px;
+    height: 80px;
+    box-shadow: 0px 0px 1px 1px gray;
+    transition: all 0.3s ease;
+}
+
+.price__container>div {
+    padding: 10px;
+    text-align: center;
+}
+
+.price__container>div p {
+    margin: 0;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.price__container>div>span {
+    font-size: 12px;
+    display: inline-block;
+    margin: 3px;
+}
+
+.container__card__title__icon:hover {
+    color: red;
+}
+
+.container__card__info__times__container .button:hover .price__container {
+    display: flex;
+    color: black;
+}

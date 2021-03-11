@@ -1,5 +1,6 @@
 import React from 'react'
 import { Switch, Route } from 'react-router-dom';
+import { BookTicketsPage } from '../Pages/BookTicketsPage';
 import { HomePage } from '../Pages/HomePage';
 
 const Router = () => {
@@ -8,6 +9,9 @@ const Router = () => {
             <Switch>
                 <Route exact path="/">
                     <HomePage />
+                </Route>
+                <Route exact path="/booktickets/:id">
+                    <BookTicketsPage />
                 </Route>
             </Switch>
         </div>
