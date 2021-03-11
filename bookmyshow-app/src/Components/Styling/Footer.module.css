@@ -17,15 +17,17 @@ a {
 }
 .part1 {
 	display: flex;
+	flex-wrap: wrap;
 	align-items: center;
 	color: #e9e9ea;
 	background: #313035;
 	padding: 20px 80px;
-	height: 50px;
+	min-height: 50px;
 	justify-content: space-between;
 }
 .part1 > div:first-child {
 	display: flex;
+	align-items: center;
 	font-weight: 600;
 }
 .contact_button button {
@@ -100,6 +102,7 @@ a {
 .part4 {
 	display: flex;
 	justify-content: center;
+	flex-wrap: wrap;
 	align-items: center;
 	padding: 20px 40px;
 	background: #333338;
