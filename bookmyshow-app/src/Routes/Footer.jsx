@@ -1,10 +1,10 @@
 import React from 'react'
 import styles from '../Components/Styling/Footer.module.css'
-import {Link} from 'react-router-dom'
+import { Link } from 'react-router-dom'
 const Footer = () => {
     return (
         <div>
-            <span>Home</span>
+            {/* <span>Home</span> */}
             <div className={styles.privacy_policy}>
                 <div>Privacy Note</div>
                 <div>
@@ -18,10 +18,10 @@ const Footer = () => {
             </div>
             <div className={styles.part1}>
                 <div>
-                    <div style={{fontSize:'20px', marginRight:'30px'}}>List your show</div>
-                    
+                    <div style={{ fontSize: '20px', marginRight: '30px' }}>List your show</div>
+
                     <div>Got a show, event, activity or a great experience? Partner
-                        with us &amp; get listed on BookMyShow
+                    with us &amp; get listed on BookMyShow
                     </div>
                 </div>
                 <div className={styles.contact_button}>
@@ -71,45 +71,45 @@ const Footer = () => {
                 <div>
                     <div>Upcomimg Movies</div>
                     <div className={styles.movies}>
-                        <Link to="/movies/tsunami/ET00307578"  className={styles.link}>Tsunami</Link>
+                        <Link to="/movies/tsunami/ET00307578" className={styles.link}>Tsunami</Link>
                         <div className={styles.line}></div>
-                        <Link to="/movies/srikaaram-sreekaram/ET00106100"  className={styles.link}>Srikaaram (Sreekaram)</Link>
+                        <Link to="/movies/srikaaram-sreekaram/ET00106100" className={styles.link}>Srikaaram (Sreekaram)</Link>
                         <div className={styles.line}></div>
-                        <Link to="/movies/roohi/ET00099813"  className={styles.link}>Roohi</Link>
+                        <Link to="/movies/roohi/ET00099813" className={styles.link}>Roohi</Link>
                         <div className={styles.line}></div>
-                        <Link to="/movies/jathi-ratnalu/ET00305719"  className={styles.link}>Jathi Ratnalu</Link>
+                        <Link to="/movies/jathi-ratnalu/ET00305719" className={styles.link}>Jathi Ratnalu</Link>
                         <div className={styles.line}></div>
-                        <Link to="/movies/romiyo-whisky/ET00307958"  className={styles.link}>Romiyo Whisky</Link>
+                        <Link to="/movies/romiyo-whisky/ET00307958" className={styles.link}>Romiyo Whisky</Link>
                         <div className={styles.line}></div>
-                        <Link to="/movies/puaada/ET00099872"  className={styles.link}>Puaada</Link>
+                        <Link to="/movies/puaada/ET00099872" className={styles.link}>Puaada</Link>
                         <div className={styles.line}></div>
-                        <Link to="/movies/gaali-sampath/ET00307385"  className={styles.link}>Gaali Sampath</Link>
+                        <Link to="/movies/gaali-sampath/ET00307385" className={styles.link}>Gaali Sampath</Link>
                         <div className={styles.line}></div>
-                        <Link to="/movies/tandav/ET00308037"  className={styles.link}>Tandav</Link>
+                        <Link to="/movies/tandav/ET00308037" className={styles.link}>Tandav</Link>
                         <div className={styles.line}></div>
-                        <Link to="/movies/aarkkariyam/ET00307366"  className={styles.link}>Aarkkariyam</Link>
+                        <Link to="/movies/aarkkariyam/ET00307366" className={styles.link}>Aarkkariyam</Link>
                         <div className={styles.line}></div>
-                        <Link to="/movies/the-priest/ET00305064"  className={styles.link}>The Priest</Link>
+                        <Link to="/movies/the-priest/ET00305064" className={styles.link}>The Priest</Link>
                         <div className={styles.line}></div>
-                        <Link to="/movies/devarakondalo-vijay-premakatha/ET00307858"  className={styles.link}>Devarakondalo Vijay Premakatha</Link>
+                        <Link to="/movies/devarakondalo-vijay-premakatha/ET00307858" className={styles.link}>Devarakondalo Vijay Premakatha</Link>
                         <div className={styles.line}></div>
-                        <Link to="/movies/roberrt/ET00121878"  className={styles.link}>Roberrt</Link>
+                        <Link to="/movies/roberrt/ET00121878" className={styles.link}>Roberrt</Link>
                         <div className={styles.line}></div>
-                        <Link to="/movies/koli-taal/ET00132563"  className={styles.link}>Koli Taal</Link>
+                        <Link to="/movies/koli-taal/ET00132563" className={styles.link}>Koli Taal</Link>
                         <div className={styles.line}></div>
-                        <Link to="/movies/theethum-nandrum/ET00308033"  className={styles.link}>Theethum Nandrum</Link>
+                        <Link to="/movies/theethum-nandrum/ET00308033" className={styles.link}>Theethum Nandrum</Link>
                         <div className={styles.line}></div>
-                        <Link to="/movies/time-to-dance/ET00078875"  className={styles.link}>Time To Dance</Link>
+                        <Link to="/movies/time-to-dance/ET00078875" className={styles.link}>Time To Dance</Link>
                         <div className={styles.line}></div>
-                        <Link to="/movies/love-life-and-pakodi/ET00136443"  className={styles.link}>Love Life And Pakodi</Link>
+                        <Link to="/movies/love-life-and-pakodi/ET00136443" className={styles.link}>Love Life And Pakodi</Link>
                         <div className={styles.line}></div>
-                        <Link to="/movies/ganesapuram/ET00306595"  className={styles.link}>Ganesapuram</Link>
+                        <Link to="/movies/ganesapuram/ET00306595" className={styles.link}>Ganesapuram</Link>
                         <div className={styles.line}></div>
-                        <Link to="/movies/varthamanam/ET00132941"  className={styles.link}>Varthamanam</Link>
+                        <Link to="/movies/varthamanam/ET00132941" className={styles.link}>Varthamanam</Link>
                         <div className={styles.line}></div>
-                        <Link to="/movies/jeene-ki-ummeed-tumse-hi/ET00307787"  className={styles.link}>Jeene Ki Ummeed Tumse Hi</Link>
+                        <Link to="/movies/jeene-ki-ummeed-tumse-hi/ET00307787" className={styles.link}>Jeene Ki Ummeed Tumse Hi</Link>
                         <div className={styles.line}></div>
-                        <Link to="/movies/kaathal-ithu-kaathal/ET00308060"  className={styles.link}>Kaathal Ithu Kaathal</Link>
+                        <Link to="/movies/kaathal-ithu-kaathal/ET00308060" className={styles.link}>Kaathal Ithu Kaathal</Link>
                     </div>
                 </div>
 
@@ -243,7 +243,7 @@ const Footer = () => {
             </div>
             <div className={styles.part4}>
                 <div></div>
-                <img src="bookmyshow-logo.png" alt=""/>
+                <img src="bookmyshow-logo.png" alt="" />
                 <div></div>
             </div>
 
@@ -259,10 +259,10 @@ const Footer = () => {
             <div className={styles.part6}>
                 <div>Copyright 2021
                      © Bigtree Entertainment Pvt. Ltd. All Rights Reserved.</div>
-                <div>The content and images used on 
-                    this site are copyright protected and copyrights vests with the respective owners. The usage of the content and 
+                <div>The content and images used on
+                this site are copyright protected and copyrights vests with the respective owners. The usage of the content and
                     images on this website is intended to promote the works and no endorsement of the artist shall be implied.</div>
-                    <div>Unauthorized use is prohibited and punishable by law.
+                <div>Unauthorized use is prohibited and punishable by law.
                 </div>
             </div>
         </div>
