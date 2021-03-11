@@ -16,6 +16,9 @@ import AccountCircleIcon from '@material-ui/icons/AccountCircle';
 import { makeStyles } from '@material-ui/core/styles';
 import Drawer from '@material-ui/core/Drawer';
 import clsx from 'clsx';
+import { useReducer } from 'react';
+import { useDispatch } from 'react-redux';
+import { cityRequest } from '../Redux/app/actions';
 
 
 const Transition = React.forwardRef(function Transition(props, ref) {
@@ -63,6 +66,11 @@ const Navbar = () => {
         setCityName(name)
     }
 
+    const dispatch = useDispatch();
+    React.useEffect(() => {
+        dispatch(cityRequest(cityName))
+    }, [cityName])
+    
     const toggleDrawer = (open) => (event) => {
         setState(!state);
     };

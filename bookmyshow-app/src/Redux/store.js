@@ -1,10 +1,12 @@
 import { applyMiddleware, combineReducers, compose, createStore } from "redux";
 import { reducer } from "./app/reducer";
+import { movieReducer } from "./data/reducer";
 import { cinemasReducer } from "./cinemas/cinemasReducer";
 
 const rootReducer = combineReducers({
     app: reducer,
-    cinemas: cinemasReducer
+    cinemas: cinemasReducer,
+    data: movieReducer
 })
 const logger = store => (next) => (action) => {
     return typeof action === "function"

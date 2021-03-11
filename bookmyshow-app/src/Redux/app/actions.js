@@ -16,6 +16,12 @@ import {
     GET_POPULAR_EVENTS_SUCCESS
 } from "./actionTypes"
 import axios from "axios";
+export const cityRequest = (city) => {
+    return {
+        type: "cityChange",
+        city
+    }
+}
 
 
 // GET MOVIES-----------------------------------
@@ -26,6 +32,7 @@ const getMoviesRequest = () => {
     }
 }
 const getMoviesSuccess = (payload) => {
+    console.log(payload)
     return {
         type: GET_MOVIES_SUCCESS,
         payload
@@ -33,7 +40,8 @@ const getMoviesSuccess = (payload) => {
 }
 const getMoviesFailure = (error) => {
     return {
-        type: GET_MOVIES_FAILURE
+        type: GET_MOVIES_FAILURE,
+        error
     }
 }
 

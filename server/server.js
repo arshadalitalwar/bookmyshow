@@ -209,7 +209,7 @@ const movieSchema = new mongoose.Schema({
   },
   is_primier: {
     type: Boolean
-  },
+  }
 });
 
 const Movie = mongoose.model("movie", movieSchema);
@@ -222,6 +222,12 @@ app.post("/movies", async (req, res) => {
 });
 app.get("/movies", async (req, res) => {
   const movies = await Movie.find({}).lean().exec();
+  res.status(201).json({
+    data: movies
+  });
+});
+app.get("/movies/:id", async (req, res) => {
+  const movies = await Movie.findById(req.params.id).lean().exec();
   res.status(201).json({
     data: movies
   });

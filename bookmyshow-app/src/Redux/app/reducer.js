@@ -24,11 +24,18 @@ const initState = {
     popular_events: [],
     latest_events: [],
     isLoading: false,
-    isError: false
+    isError: false,
+    city: ""
 }
 
-export const reducer = (state = initState, { type, payload }) => {
+export const reducer = (state = initState, { type, payload, city }) => {
     switch (type) {
+        case "cityChange": {
+            return {
+                ...state,
+                city: city
+            }
+        }
         case GET_MOVIES_REQUEST: {
             return {
                 ...state,
@@ -36,6 +43,7 @@ export const reducer = (state = initState, { type, payload }) => {
             }
         }
         case GET_MOVIES_SUCCESS: {
+            console.log(payload.data)
             return {
                 ...state,
                 movies_data: payload,
