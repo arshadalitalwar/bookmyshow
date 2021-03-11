@@ -139,7 +139,7 @@ const movieSchema = new mongoose.Schema({
   screen_types: { type: Array, required: true },
   languages: { type: Array, required: true },
   movie_duration: { type: String, required: true },
-  rating: { type: String, required: true },
+  rating: { no_of_ratings: { type: Number } },
   about_movie: { type: String, required: true },
   cast: { type: Array, required: true },
   crew: { type: Array, required: true },
@@ -156,6 +156,10 @@ app.post("/movies", async (req, res) => {
 });
 app.get("/movies", async (req, res) => {
   const movies = await Movie.find({}).lean().exec();
+  res.status(201).json({ data: movies });
+});
+app.get("/movies/:id", async (req, res) => {
+  const movies = await Movie.findById(req.params.id).lean().exec();
   res.status(201).json({ data: movies });
 });
 app.patch("/movies/:id", async (req, res) => {
