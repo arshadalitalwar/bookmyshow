@@ -1,14 +1,20 @@
-import React from "react";
 import { GET_MOVIES_FAILURE, GET_MOVIES_REQUEST, GET_MOVIES_SUCCESS } from "./actionTypes";
 
 const initState = {
     movies_data: [],
     isLoading: false,
-    isError: false
+    isError: false,
+    city: ""
 }
 
-export const reducer = (state = initState, { type, payload }) => {
+export const reducer = (state = initState, { type, payload, city }) => {
     switch (type) {
+        case "cityChange": {
+            return {
+                ...state,
+                city: city
+            }
+        }
         case GET_MOVIES_REQUEST: {
             return {
                 ...state,
@@ -16,9 +22,10 @@ export const reducer = (state = initState, { type, payload }) => {
             }
         }
         case GET_MOVIES_SUCCESS: {
+            // console.log(payload.data)
             return {
                 ...state,
-                movies_data: payload,
+                movies_data: payload.data,
                 isLoading: false
             }
         }
