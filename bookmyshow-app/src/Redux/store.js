@@ -3,6 +3,7 @@ import { reducer } from "./app/reducer";
 import { movieReducer } from "./data/reducer";
 
 const rootReducer = combineReducers({
+  app: reducer,
   data: movieReducer,
 });
 const logger = (store) => (next) => (action) => {

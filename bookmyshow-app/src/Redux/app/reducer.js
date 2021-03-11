@@ -43,7 +43,7 @@ export const reducer = (state = initState, { type, payload, city }) => {
             }
         }
         case GET_MOVIES_SUCCESS: {
-            // console.log(payload.data)
+            console.log(payload.data)
             return {
                 ...state,
                 movies_data: payload,
