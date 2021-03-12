@@ -47,7 +47,7 @@ const MoviePage = () => {
 
   React.useEffect(() => {
     dispatch(getMovies(id));
-    window.scrollTo(window.scrollX, 0)
+    window.scrollTo(window.scrollX, 0);
   }, []);
   const handleOpen = () => {
     setOpen(true);

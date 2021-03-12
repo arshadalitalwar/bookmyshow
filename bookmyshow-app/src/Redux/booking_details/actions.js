@@ -2,7 +2,8 @@ import {
     ADD_DATE_DAY,
     ADD_MOVIE_NAME,
     ADD_NAME_TIME,
-    ADD_SEATS_DATA
+    ADD_SEATS_DATA,
+    ADD_TOTAL_PRICE
 } from "./actionTypes"
 
 
@@ -38,5 +39,12 @@ export const handleAddingSeatingData = (seatingData) => {
     return {
         type: ADD_SEATS_DATA,
         payload: seatingData
+    }
+}
+
+export const handleAddTotalPrice = (payload) => {
+    return {
+        type: ADD_TOTAL_PRICE,
+        payload
     }
 }
