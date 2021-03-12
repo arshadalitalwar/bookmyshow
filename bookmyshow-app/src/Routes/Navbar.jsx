@@ -80,7 +80,10 @@ const Navbar = () => {
             <div className={styles.navbar}>
                 <div style={{ display: 'flex', alignItems: 'center', width:'65%'}}>
                     <Link className={styles.link} to="/">
-                        <img className={styles.logo} src="Bookmyshow-logo.png" alt="log"/>
+                        
+                        <svg height="40" width="150">
+                            <image href="//in.bmscdn.com/webin/common/icons/bms.svg" width="150" height="40"></image>
+                        </svg>
                     </Link>
                     <div className={styles.searchBar}>
                         <SearchIcon />

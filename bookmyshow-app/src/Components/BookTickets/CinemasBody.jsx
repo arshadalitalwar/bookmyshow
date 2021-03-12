@@ -17,6 +17,7 @@ export const CinemasBody = ({ filters }) => {
     // console.log(cinemas_data);
     let filteredData = cinemas_data;
     const [seatingModalOpen, setSeatingModalOpen] = useState(false);
+    const [foodModalOpen, setFoodModalOpen] = useState(false);
 
     const handleFilter = () => {
         if (filters.length) {
@@ -80,6 +81,7 @@ export const CinemasBody = ({ filters }) => {
 
     const handleCloseSeatingModal = (seatingData) => {
         setSeatingModalOpen(false);
+        setFoodModalOpen(true)
         dispatch(handleAddingSeatingData(seatingData));
     }
 
