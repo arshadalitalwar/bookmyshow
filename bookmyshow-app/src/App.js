@@ -3,14 +3,16 @@ import "./App.css";
 import Footer from "./Routes/Footer";
 import Navbar from "./Routes/Navbar";
 import Router from "./Routes/Router";
-// import SeeAll from './Pages/SeeAll'
+import SummeryPage from './Pages/SummeryPage'
 
 function App() {
   return (
     <div className="App">
       <Navbar />
+      <SummeryPage/>
       <Router />
       <Footer />
+      
     </div>
   );
 }
