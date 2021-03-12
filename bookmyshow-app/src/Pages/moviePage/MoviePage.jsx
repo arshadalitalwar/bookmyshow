@@ -11,6 +11,7 @@ import Fade from "@material-ui/core/Fade";
 import Typography from "@material-ui/core/Typography";
 import Slider from "@material-ui/core/Slider";
 import { RecommendedMovies } from "../../Components/HomePage/RecommendedMovies";
+
 function valuetext(value) {
   return `${value}`;
 }
