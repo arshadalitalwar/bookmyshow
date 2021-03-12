@@ -1,6 +1,7 @@
-import React from "react";
+import React, { useEffect } from "react";
 import "./Seating.css";
 import { rows, rows2 } from "./data";
+import { useSelector } from "react-redux";
 const Silver = ["A", "B", "C", "D"];
 const ticketList = {
   silver: [],
@@ -8,7 +9,7 @@ const ticketList = {
   price: 0,
 };
 const Seating = ({
-  seatingActive = true,
+  seatingActive = false,
   movie_name = "Tom And Jerry",
   location = "INOX: Neelyog, Ghatkopar E",
   timeAndDate = "Tomorrow, 12 Mar, 10:30 AM",
@@ -17,12 +18,21 @@ const Seating = ({
   ticketPrice1 = 112,
   ticketPrice2 = 100,
   ticketListfunc,
+  handleCloseSeatingModal
 }) => {
   const [seatActive, setSeatActive] = React.useState(seatingActive);
   const [active, setActive] = React.useState(false);
   const [rowsData, setRowData] = React.useState(rows);
   const [rowsData2, setRowData2] = React.useState(rows2);
   const [price, setPrice] = React.useState(0);
+  const movie_details = useSelector(state => state.booking_details);
+
+  const monthNames = ["January", "February", "March", "April", "May", "June",
+    "July", "August", "September", "October", "November", "December"
+  ];
+
+
+  // console.log(seatingActive);
 
   const handleClick = (value) => {
     setRowData(
@@ -45,6 +55,7 @@ const Seating = ({
     setActive(price > 0 ? true : false);
   }, [price, rowsData, rowsData2]);
 
+
   const handleSeat = () => {
     rowsData.forEach((e) =>
       e.isSelected ? ticketList.silver.push(e.seat) : ""
@@ -56,14 +67,15 @@ const Seating = ({
     //ticketListfunc(ticketList);
     console.log(ticketList);
     setSeatActive(false);
+    handleCloseSeatingModal(ticketList);
   };
   return (
     <div
       style={
-        seatActive
+        seatingActive
           ? {
-              display: "block",
-            }
+            display: "block", zIndex: 1000, position: "absolute", top: "10%", left: 0, height: "100vh"
+          }
           : { display: "none" }
       }
       className="seatingModal"
@@ -71,15 +83,15 @@ const Seating = ({
       <div className="seatingModal__nav">
         <div>
           <div>
-            <h4>{movie_name}</h4>
-            <h5>{location}</h5>
+            <h4 style={{ color: "white", fontSize: 20 }}>{movie_details.movie_name}</h4>
+            <h5 style={{ color: "white" }}>{movie_details.cinemas_name}</h5>
           </div>
           <div>
-            <button onClick={() => setSeatActive(false)}>X</button>
+            <button style={{ cursor: "pointer", fontSize: 25 }} onClick={() => handleCloseSeatingModal()}>X</button>
           </div>
         </div>
         <div>
-          <h5>{timeAndDate}</h5>
+          <h3>{movie_details.date} {monthNames[new Date().getMonth()]} {movie_details.time}</h3>
         </div>
       </div>
       <div className="seatingModal__seatContainer">
@@ -89,9 +101,9 @@ const Seating = ({
           </h5>
 
           <div className="seatingModal__seatContainer_can">
-            <div>
+            <div style={{ display: "grid" }}>
               {Silver.map((e) => (
-                <div style={{ margin: 20 }} key={e}>
+                <div style={{ margin: 10, color: "gray" }} key={e}>
                   {e}
                 </div>
               ))}
@@ -104,10 +116,10 @@ const Seating = ({
                     e.disable
                       ? "disable"
                       : e.isReserved
-                      ? "reserved"
-                      : e.isSelected
-                      ? "select"
-                      : "seats"
+                        ? "reserved"
+                        : e.isSelected
+                          ? "select"
+                          : "seats"
                   }
                   key={e.id}
                 >
@@ -120,9 +132,9 @@ const Seating = ({
             {type2}-Rs. {ticketPrice2}
           </h5>
           <div className="seatingModal__seatContainer_can">
-            <div>
+            <div style={{ display: "grid" }}>
               {Silver.map((e) => (
-                <div style={{ margin: 20 }} key={e}>
+                <div style={{ margin: 10, color: "gray" }} key={e}>
                   {e}
                 </div>
               ))}
@@ -135,10 +147,10 @@ const Seating = ({
                     e.disable
                       ? "disable"
                       : e.isReserved
-                      ? "reserved"
-                      : e.isSelected
-                      ? "select"
-                      : "seats"
+                        ? "reserved"
+                        : e.isSelected
+                          ? "select"
+                          : "seats"
                   }
                   key={e.id}
                 >
@@ -159,7 +171,7 @@ const Seating = ({
       >
         <button
           onClick={() => handleSeat()}
-          style={{ height: 40, margin: 10, marginLeft: "40%" }}
+          style={{ height: 40, margin: 10, marginLeft: "40%", cursor: "pointer" }}
         >
           Rs. {price}
         </button>

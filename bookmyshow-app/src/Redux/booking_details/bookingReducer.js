@@ -1,7 +1,8 @@
 import {
     ADD_DATE_DAY,
     ADD_MOVIE_NAME,
-    ADD_NAME_TIME
+    ADD_NAME_TIME,
+    ADD_SEATS_DATA
 } from "./actionTypes"
 
 const initState = {
@@ -9,7 +10,10 @@ const initState = {
     date: "",
     day: "",
     time: "",
-    cinemas_name: ""
+    cinemas_name: "",
+    silver: [],
+    platinium: [],
+    price: 0
 }
 
 export const bookingReducer = (state = initState, {
@@ -30,6 +34,13 @@ export const bookingReducer = (state = initState, {
             }
         }
         case ADD_NAME_TIME: {
+            return {
+                ...state,
+                ...payload
+            }
+        }
+        case ADD_SEATS_DATA: {
+            console.log(payload)
             return {
                 ...state,
                 ...payload

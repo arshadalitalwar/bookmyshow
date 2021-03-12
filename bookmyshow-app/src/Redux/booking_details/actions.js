@@ -1,7 +1,8 @@
 import {
     ADD_DATE_DAY,
     ADD_MOVIE_NAME,
-    ADD_NAME_TIME
+    ADD_NAME_TIME,
+    ADD_SEATS_DATA
 } from "./actionTypes"
 
 
@@ -29,5 +30,13 @@ export const handleSelectNameTime = (cinemas_name, time) => {
             cinemas_name,
             time
         }
+    }
+}
+
+
+export const handleAddingSeatingData = (seatingData) => {
+    return {
+        type: ADD_SEATS_DATA,
+        payload: seatingData
     }
 }

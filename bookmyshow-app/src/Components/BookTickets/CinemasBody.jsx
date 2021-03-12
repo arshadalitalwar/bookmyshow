@@ -1,19 +1,22 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { BsHeartFill, BsCircleFill } from "react-icons/bs";
 import { VscDeviceMobile } from "react-icons/vsc";
 import { IoFastFoodOutline } from "react-icons/io5";
 import styles from "../Styling/Cinemas.module.css";
-import { handleSelectNameTime } from "../../Redux/booking_details/actions";
+import { handleAddingSeatingData, handleSelectNameTime } from "../../Redux/booking_details/actions";
 import 'antd/dist/antd.css';
 import { Modal, Button } from 'antd';
+import Seating from "../Seating";
 
 export const CinemasBody = ({ filters }) => {
     const cinemas_data = useSelector(state => state.cinemas.cinemas_data);
     const date = useSelector(state => state.booking_details.date);
+    const data = useSelector(state => state.booking_details);
     const dispatch = useDispatch();
     // console.log(cinemas_data);
     let filteredData = cinemas_data;
+    const [seatingModalOpen, setSeatingModalOpen] = useState(false);
 
     const handleFilter = () => {
         if (filters.length) {
@@ -24,6 +27,9 @@ export const CinemasBody = ({ filters }) => {
     }
 
     handleFilter();
+    React.useEffect(() => {
+        window.scrollTo(window.scrollX, 0);
+    }, [seatingModalOpen])
 
 
     function formatAMPM(date) {
@@ -55,6 +61,7 @@ export const CinemasBody = ({ filters }) => {
     const handleOk = () => {
         setConfirmLoading(true);
         setTimeout(() => {
+            setSeatingModalOpen(!seatingModalOpen);
             setVisible(false);
             setConfirmLoading(false);
         }, 2000);
@@ -71,8 +78,13 @@ export const CinemasBody = ({ filters }) => {
         showModal();
     }
 
+    const handleCloseSeatingModal = (seatingData) => {
+        setSeatingModalOpen(false);
+        dispatch(handleAddingSeatingData(seatingData));
+    }
 
-    return (
+
+    return seatingModalOpen ? <Seating seatingActive={seatingModalOpen} handleCloseSeatingModal={handleCloseSeatingModal} /> : (
         <div className={styles.container} >
             <Modal
                 title="Terms & Conditions"

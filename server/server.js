@@ -184,8 +184,10 @@ const movieSchema = new mongoose.Schema({
     required: true
   },
   rating: {
-    type: String,
-    required: true
+    percentage: {
+      type: Number
+    },
+    no_of_ratings: Number
   },
   about_movie: {
     type: String,
