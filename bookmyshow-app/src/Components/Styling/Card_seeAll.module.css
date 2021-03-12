@@ -3,12 +3,15 @@
 	margin: 10px;
 	font-family: Roboto, sans-serif;
 	transition: .3s;
+	cursor: pointer;
 }
+
 .card img {
 	width: 225px;
 	height: 350px;
 	border-radius: 10px;
 }
+
 .title {
 	width: 225px;
 	font-weight: 600;
@@ -17,6 +20,7 @@
 	margin: 10px 0;
 	/* line-height: 40px; */
 }
+
 .genre {
 	width: 225px;
 	word-break: break-word;

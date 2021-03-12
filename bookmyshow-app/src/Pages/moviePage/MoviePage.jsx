@@ -1,7 +1,7 @@
 import React from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { getMovies, putMovies } from "../../Redux/data/actions";
-import { useParams } from "react-router-dom";
+import { useHistory, useParams } from "react-router-dom";
 import "../../Components/MoviePage/moviePage.css";
 import Carousel from "react-elastic-carousel";
 import { makeStyles } from "@material-ui/core/styles";
@@ -11,6 +11,7 @@ import Fade from "@material-ui/core/Fade";
 import Typography from "@material-ui/core/Typography";
 import Slider from "@material-ui/core/Slider";
 import { RecommendedMovies } from "../../Components/HomePage/RecommendedMovies";
+
 function valuetext(value) {
   return `${value}`;
 }
@@ -42,8 +43,11 @@ const MoviePage = () => {
   const { id } = useParams();
   const data = useSelector((state) => state.data.movies.data);
   const dispatch = useDispatch();
+  const history = useHistory();
+
   React.useEffect(() => {
     dispatch(getMovies(id));
+    window.scrollTo(window.scrollX, 0)
   }, []);
   const handleOpen = () => {
     setOpen(true);
@@ -66,6 +70,11 @@ const MoviePage = () => {
     );
     setOpen(false);
   };
+
+  const handleClick = () => {
+    history.push(`/booktickets/${id}`)
+  }
+
   return (
     <div>
       {data && (
@@ -73,7 +82,7 @@ const MoviePage = () => {
           <div
             className="container"
             style={{
-              backgroundImage: `url(${data.cover_image_url})`,
+              backgroundImage: `linear-gradient(90deg, rgb(34, 34, 34) 24.97%, rgb(34, 34, 34) 38.3%, rgba(34, 34, 34, 0.04) 97.47%, rgb(34, 34, 34) 100%),url(${data.cover_image_url})`,
               backgroundPosition: "center",
               backgroundSize: "cover",
               backgroundRepeat: "no-repeat",
@@ -88,18 +97,18 @@ const MoviePage = () => {
                 <img
                   src="https://www.leadingwithhonor.com/wp-content/uploads/2021/02/redheart.png"
                   alt="Rating"
-                  style={{ width: 40 }}
+                  style={{ width: 25 }}
                 />
                 <h1>{data.rating.percentage}%</h1>
-                <p>{Math.ceil(data.rating.no_of_ratings)} Ratings</p>
+                <p style={{ marginBottom: 0 }}>{Math.ceil(data.rating.no_of_ratings)} Ratings</p>
               </div>
               <div className="container__movieDetail_ratingButton">
                 <div>
-                  <h4>Add your rating and review</h4>
+                  <h4 style={{ color: "white" }}>Add your rating and review</h4>
                   <p>Your ratings matter</p>
                 </div>
                 <div>
-                  <button onClick={handleOpen}>Rate Now</button>
+                  <button style={{ cursor: "pointer" }} onClick={handleOpen}>Rate Now</button>
                 </div>
               </div>
               <div className="container__movieDetail_language">
@@ -111,14 +120,14 @@ const MoviePage = () => {
                 </div>
               </div>
               <div style={{ color: "white", fontSize: 18 }}>
-                <h5>
-                  {`${data.movie_duration}, ${data.movie_genre.map(
-                    (e) => e.genre
-                  )}, ${data.release_date}`}
+                <h5 style={{ color: "white", fontSize: 18 }}>
+                  {`${data.movie_duration} - ${data.movie_genre.map(
+                    (e) => " " + e.genre
+                  )} - ${data.release_date}`}
                 </h5>
               </div>
               <div className="BookButton">
-                <button>Book Tickets</button>
+                <button onClick={handleClick}>Book Tickets</button>
               </div>
             </div>
           </div>
@@ -130,7 +139,7 @@ const MoviePage = () => {
             <hr />
             <div>
               <h1>Cast</h1>
-              <Carousel itemsToShow={6}>
+              <Carousel itemsToShow={8} pagination={false}>
                 {data.cast.map((e) => (
                   <div key={e.id}>
                     <div>
@@ -151,7 +160,7 @@ const MoviePage = () => {
             <hr />
             <div className="carousel">
               <h1>Crew</h1>
-              <Carousel itemsToShow={6}>
+              <Carousel itemsToShow={8} pagination={false}>
                 {data.crew.map((e) => (
                   <div key={e.id}>
                     <div>
@@ -216,6 +225,7 @@ const MoviePage = () => {
                   marks
                   min={0}
                   max={100}
+                  color="secondary"
                 />
 
                 <div
@@ -228,9 +238,10 @@ const MoviePage = () => {
                     display: "flex",
                     alignItems: "center",
                     marginLeft: 60,
+                    position: "relative"
                   }}
                 >
-                  <h1 style={{ textAlign: "center", marginLeft: 30 }}>
+                  <h1 style={{ color: "white", margin: 0, position: "absolute", top: "50%", left: "50%", transform: "translate(-50%, -50%)" }}>
                     {rValue}%
                   </h1>
                 </div>
@@ -247,6 +258,7 @@ const MoviePage = () => {
                   borderRadius: 10,
                   border: "none",
                   outline: "none",
+                  cursor: "pointer"
                 }}
               >
                 Submit Rating
