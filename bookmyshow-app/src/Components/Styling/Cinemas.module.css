@@ -23,6 +23,10 @@
     font-size: 13px;
 }
 
+.modalText>p {
+    margin: 5px 0;
+}
+
 .container__card {
     margin: 10px;
     padding: 5px;
@@ -108,11 +112,11 @@
     display: flex;
     display: none;
     position: absolute;
-    top: -320%;
+    top: -290%;
     left: -100%;
     background-color: white;
     padding: 15px;
-    height: 80px;
+    height: 105px;
     box-shadow: 0px 0px 1px 1px gray;
     transition: all 0.3s ease;
 }
@@ -141,4 +145,149 @@
 .container__card__info__times__container .button:hover .price__container {
     display: flex;
     color: black;
+}
+
+
+/* HEADER CSS------------------------------- */
+
+.header__container {
+    background-color: #333545;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 7.5%;
+}
+
+.header_container__info>h1 {
+    margin: 0;
+    color: white;
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.header_container__info>div {
+    display: flex;
+    color: white;
+    align-items: center;
+    padding: 10px 0;
+    margin: 5px 0;
+}
+
+.header_container__info__grade {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    color: rgb(219, 219, 219);
+    border: 1px solid rgb(219, 219, 219);
+    margin-right: 10px;
+}
+
+.header_container__info__rating {
+    text-align: center;
+    margin: 0 10px;
+}
+
+.header_container__info__rating>div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header_container__info__rating>div>span {
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.header_container__info__rating>span {
+    font-size: 11px;
+}
+
+.header_container__info__genre {
+    display: flex;
+    align-items: center;
+    margin: 0 10px;
+}
+
+.header_container__info__genre>div {
+    color: rgb(219, 219, 219);
+    padding: 1px 13px;
+    border: 1px solid rgb(219, 219, 219);
+    border-radius: 10px;
+    margin-right: 5px;
+    font-size: 12px;
+}
+
+.header_container__info__date {
+    margin: 0 10px;
+    font-size: 12px;
+}
+
+.header_container__info__duration {
+    display: flex;
+    align-items: center;
+    margin: 0 10px;
+}
+
+.header__container__crew {
+    color: rgb(219, 219, 219);
+    width: 450px;
+}
+
+.header__container__crew>h4 {
+    margin-left: 25px;
+    color: rgb(219, 219, 219);
+}
+
+.header__container__crew__item {
+    text-align: center;
+}
+
+.header__container__crew__item>img {
+    width: 40px;
+    border-radius: 50%;
+}
+
+
+/* CALENDAR PART ----------------------------- */
+
+.arrow button {
+    /* min-width: 18px;
+    min-height: 18px;
+    max-width: 45px;
+    max-height: 28px;
+    border-radius: 50%; */
+
+    /* background-color: #4abd5d; */
+}
+
+.dateItem {
+    /* margin: 0 10px; */
+    /* padding: 10px 25px; */
+    text-align: center;
+    border-radius: 12px;
+    height: 60px;
+    cursor: pointer;
+}
+
+.dateItem>h2 {
+    margin: 0;
+    font-size: 18px;
+}
+
+/* FILTER PART ---------------------------- */
+
+.filter {
+    border: 1px solid #F84464;
+    background-color: #F84464;
+    color: white;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.filter__item {
+    padding: 5px 10px;
+    margin: 0;
 }
