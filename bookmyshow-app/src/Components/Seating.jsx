@@ -18,7 +18,8 @@ const Seating = ({
   ticketPrice1 = 112,
   ticketPrice2 = 100,
   ticketListfunc,
-  handleCloseSeatingModal
+  handleCloseSeatingModal,
+  handleCloseSeatingButton
 }) => {
   const [seatActive, setSeatActive] = React.useState(seatingActive);
   const [active, setActive] = React.useState(false);
@@ -87,7 +88,7 @@ const Seating = ({
             <h5 style={{ color: "white" }}>{movie_details.cinemas_name}</h5>
           </div>
           <div>
-            <button style={{ cursor: "pointer", fontSize: 25 }} onClick={() => handleCloseSeatingModal()}>X</button>
+            <button style={{ cursor: "pointer", fontSize: 25 }} onClick={() => handleCloseSeatingButton()}>X</button>
           </div>
         </div>
         <div>

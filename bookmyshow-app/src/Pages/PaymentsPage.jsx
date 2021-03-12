@@ -30,7 +30,7 @@ const Transition = React.forwardRef(function Transition(props, ref) {
 });
 
 const Counter = () => (
-  
+
   <CountdownCircleTimer
     isPlaying
     duration={600}
@@ -40,15 +40,15 @@ const Counter = () => (
       ['#A30000', 0.33],
     ]}
   >
-    {({ remainingTime }) => parseFloat(remainingTime/60).toFixed(2) + "  Minutes"}
+    {({ remainingTime }) => parseFloat(remainingTime / 60).toFixed(2) + "  Minutes"}
   </CountdownCircleTimer>
 )
 
 const useStyles = makeStyles((theme) => ({
   appBar: {
     position: 'relative',
-        background: '#1F2533',
-        
+    background: '#1F2533',
+
   },
   title: {
     marginLeft: theme.spacing(2),
@@ -59,7 +59,7 @@ const useStyles = makeStyles((theme) => ({
 
 
 
-export default function FullScreenDialog({proceed}) {
+export default function FullScreenDialog({ proceed }) {
   const classes = useStyles();
   const [state, setState] = React.useState(false);
   const city = useSelector(state => state.app.city)
@@ -68,36 +68,37 @@ export default function FullScreenDialog({proceed}) {
     setState(false);
   };
   const handleChange = (e) => {
-    
+
   }
 
   const handlePayment = () => {
     setState(true)
   }
 
+  console.log(state)
   return (
     <div>
-      
+
       <Dialog fullScreen open={proceed} onClose={handleClose} TransitionComponent={Transition}>
         <AppBar className={classes.appBar}>
           <Toolbar>
             <Typography variant="h6" className={classes.title}>
-                <svg height="40" width="150">
-                    <image href="//in.bmscdn.com/webin/common/icons/bms.svg" width="150" height="40"></image>
-                </svg>
+              <svg height="40" width="150">
+                <image href="//in.bmscdn.com/webin/common/icons/bms.svg" width="150" height="40"></image>
+              </svg>
             </Typography>
           </Toolbar>
         </AppBar>
-        
+
 
         <div className={styles.page}>
-            <div className={styles.firstSection}>
-                <FirstSection handlePayment={handlePayment} />
-            </div>
-            <div className={styles.secondSection}>
-              <SecondSection />
-              <div style={{width:'fit-content', margin:'20px auto', }}><Counter/></div>
-            </div>
+          <div className={styles.firstSection}>
+            <FirstSection handlePayment={handlePayment} />
+          </div>
+          <div className={styles.secondSection}>
+            <SecondSection />
+            <div style={{ width: 'fit-content', margin: '20px auto', }}><Counter /></div>
+          </div>
         </div>
       </Dialog>
 
@@ -113,12 +114,16 @@ export default function FullScreenDialog({proceed}) {
         <DialogTitle id="alert-dialog-slide-title">{"Your payment has been done"}</DialogTitle>
         <DialogContent>
           <DialogContentText id="alert-dialog-slide-description">
-           Payment Summery
+            Let Google help apps determine location. This means sending anonymous location data to
+            Google, even when no apps are running.
           </DialogContentText>
         </DialogContent>
         <DialogActions>
           <Button onClick={handleClose} color="primary">
-            Done
+            Disagree
+          </Button>
+          <Button onClick={handleClose} color="primary">
+            Agree
           </Button>
         </DialogActions>
       </Dialog>

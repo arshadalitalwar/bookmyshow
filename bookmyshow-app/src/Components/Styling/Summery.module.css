@@ -11,7 +11,8 @@
 	border: 1px solid #dadada;
 	max-height: fit-content;
 }
-.summeryPart > div:first-child {
+
+.summeryPart>div:first-child {
 	padding: 0 30px;
 	padding-top: 20px;
 	font-weight: 300;
@@ -21,12 +22,14 @@
 	text-align: left;
 	color: #c02c39;
 }
+
 .summeryPart span {
 	padding: 0 30px;
 	font-size: 13px;
 	font-weight: 400;
 	color: #3a404e;
 }
+
 .categories {
 	padding: 0 30px;
 	font-size: 16px;
@@ -36,6 +39,7 @@
 	display: flex;
 	justify-content: space-between;
 }
+
 .line {
 	/* padding: 0 30px; */
 	background: #dadada;
@@ -49,18 +53,22 @@
 	padding: 10px;
 	text-align: left;
 }
-.charity > div:first-child {
+
+.charity>div:first-child {
 	display: flex;
 	justify-content: space-between;
 }
+
 .charity img {
 	width: 100px;
 	margin: 0 5px;
 }
+
 .text {
 	font-size: 12px;
 	text-align: center;
 }
+
 .total {
 	background: #fffcdc;
 	padding: 15px 30px;
@@ -70,6 +78,7 @@
 	justify-content: space-between;
 	margin: 20px 0;
 }
+
 .ticketType {
 	font-size: 14px;
 	color: #999;
@@ -78,6 +87,7 @@
 	margin-bottom: 25px;
 	text-align: center;
 }
+
 .cancellation_policy {
 	font-size: 100%;
 	font-weight: 400;
@@ -86,13 +96,14 @@
 	font-size: 12px;
 	text-align: center;
 }
+
 .proceedBtn {
 	background: #f84464;
 	color: #fff;
 	padding: 10px 20px;
 	margin: 15px 30px;
 	display: flex;
-	font-size: 22px;
+	font-size: 18px;
 	font-weight: 400;
 	justify-content: space-between;
 	border-radius: 10px;

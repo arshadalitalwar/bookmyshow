@@ -8,6 +8,7 @@ import { handleAddingSeatingData, handleSelectNameTime } from "../../Redux/booki
 import 'antd/dist/antd.css';
 import { Modal, Button } from 'antd';
 import Seating from "../Seating";
+import SummaryPage from "../../Pages/SummeryPage"
 
 export const CinemasBody = ({ filters }) => {
     const cinemas_data = useSelector(state => state.cinemas.cinemas_data);
@@ -85,9 +86,18 @@ export const CinemasBody = ({ filters }) => {
         dispatch(handleAddingSeatingData(seatingData));
     }
 
+    const handleCloseFoodModal = () => {
+        setFoodModalOpen(false)
+    }
 
-    return seatingModalOpen ? <Seating seatingActive={seatingModalOpen} handleCloseSeatingModal={handleCloseSeatingModal} /> : (
+    const handleCloseSeatingButton = () => {
+        setSeatingModalOpen(false);
+    }
+
+
+    return seatingModalOpen ? <Seating handleCloseSeatingButton={handleCloseSeatingButton} seatingActive={seatingModalOpen} handleCloseSeatingModal={handleCloseSeatingModal} /> : (
         <div className={styles.container} >
+            <SummaryPage foodModalOpen={foodModalOpen} handleCloseFoodModal={handleCloseFoodModal} />
             <Modal
                 title="Terms & Conditions"
                 visible={visible}
