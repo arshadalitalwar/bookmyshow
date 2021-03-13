@@ -28,7 +28,11 @@ const initState = {
     city: ""
 }
 
-export const reducer = (state = initState, { type, payload, city }) => {
+export const reducer = (state = initState, {
+    type,
+    payload,
+    city
+}) => {
     switch (type) {
         case "cityChange": {
             return {
@@ -43,7 +47,6 @@ export const reducer = (state = initState, { type, payload, city }) => {
             }
         }
         case GET_MOVIES_SUCCESS: {
-            console.log(payload.data)
             return {
                 ...state,
                 movies_data: payload,

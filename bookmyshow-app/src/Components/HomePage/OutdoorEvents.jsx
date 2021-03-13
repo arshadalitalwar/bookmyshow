@@ -5,7 +5,6 @@ import styles from "../Styling/RecommendedMovies.module.css";
 
 export const OutdoorEvents = () => {
     const outdoor_events = useSelector(state => state.app.outdoor_events);
-    console.log(outdoor_events);
     return (
         <div className={styles.parent}>
             <div className={styles.parent__text}>

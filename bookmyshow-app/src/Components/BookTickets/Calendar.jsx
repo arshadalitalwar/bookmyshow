@@ -9,8 +9,8 @@ export const Calendar = () => {
     let currentDay = new Date().getDay();
     let [selectedDate, setSelectedDate] = useState(0);
     const dispatch = useDispatch();
-    const date = useSelector(state => state.booking_details);
-    // console.log(date)
+    // const date = useSelector(state => state.booking_details);
+    console.log(selectedDate)
 
 
     // console.log(currentDay)

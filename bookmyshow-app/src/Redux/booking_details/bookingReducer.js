@@ -15,7 +15,9 @@ const initState = {
     silver: [],
     platinium: [],
     price: 0,
-    total_price: 0
+    total_price: 0,
+    banner_image_url: "",
+    movie_grade: ""
 }
 
 export const bookingReducer = (state = initState, {
@@ -26,7 +28,7 @@ export const bookingReducer = (state = initState, {
         case ADD_MOVIE_NAME: {
             return {
                 ...state,
-                movie_name: payload
+                ...payload
             }
         }
         case ADD_DATE_DAY: {

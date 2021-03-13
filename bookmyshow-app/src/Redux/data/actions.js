@@ -33,7 +33,7 @@ export const getMovies = (id) => (dispatch) => {
 };
 
 export const putMovies = (id, param) => (dispatch) => {
-  console.log(id, param);
+  // console.log(id, param);
   // dispatch(getMovieRequest());
   return axios
     .patch(`http://localhost:8000/movies/${id}`, param)

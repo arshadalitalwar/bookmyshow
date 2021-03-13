@@ -9,6 +9,7 @@ import { PopularEvents } from "../Components/HomePage/PopularEvents";
 import { PremierMovies } from "../Components/HomePage/PremierMovies";
 import { RecommendedMovies } from "../Components/HomePage/RecommendedMovies";
 import { getLatestEvents, getLaughterEvents, getMovies, getOutdoorEvents, getPopularEvents } from "../Redux/app/actions";
+import { getBookingDetails } from "../Redux/booking/action";
 
 export const HomePage = () => {
     const dispatch = useDispatch();
@@ -19,6 +20,7 @@ export const HomePage = () => {
         dispatch(getLaughterEvents());
         dispatch(getPopularEvents());
         dispatch(getLatestEvents());
+        dispatch(getBookingDetails());
     }, [])
     return (
         <div style={{ backgroundColor: "#F2F5F9" }}>

@@ -13,7 +13,7 @@ import Typography from '@material-ui/core/Typography';
 import Slide from '@material-ui/core/Slide';
 import ClearIcon from '@material-ui/icons/Clear';
 import ChevronLeftIcon from '@material-ui/icons/ChevronLeft';
-import { useSelector } from 'react-redux';
+import { useDispatch, useSelector } from 'react-redux';
 import Food from '../Components/SummeryPage/Food';
 import FirstSection from '../Components/PaymentsPage/FirstSection';
 import styles from '../Components/Styling/PaymentsPage.module.css'
@@ -24,6 +24,7 @@ import DialogContentText from '@material-ui/core/DialogContentText';
 import DialogTitle from '@material-ui/core/DialogTitle';
 
 import { CountdownCircleTimer } from 'react-countdown-circle-timer'
+import { getBookingDetails, postBookingDetails } from '../Redux/booking/action';
 
 const Transition = React.forwardRef(function Transition(props, ref) {
   return <Slide direction="up" ref={ref} {...props} />;
@@ -63,6 +64,9 @@ export default function FullScreenDialog({ proceed }) {
   const classes = useStyles();
   const [state, setState] = React.useState(false);
   const city = useSelector(state => state.app.city)
+  const booking_details = useSelector(state => state.booking_details);
+  console.log(booking_details);
+  const dispatch = useDispatch();
 
   const handleClose = () => {
     setState(false);
@@ -73,6 +77,13 @@ export default function FullScreenDialog({ proceed }) {
 
   const handlePayment = () => {
     setState(true)
+    dispatch(postBookingDetails(booking_details))
+      .then(res => {
+        if (res) {
+          console.log("POSTED")
+          dispatch(getBookingDetails());
+        }
+      })
   }
 
   console.log(state)
