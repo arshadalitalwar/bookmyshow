@@ -88,7 +88,7 @@ const Navbar = () => {
             setAuth(true)
             alert("Successfully Logged in")
         }
-        else if (+number === 123) {
+        else if (+number === 123456789) {
             setAuth(true)
             alert("Successfully Logged in")
 
