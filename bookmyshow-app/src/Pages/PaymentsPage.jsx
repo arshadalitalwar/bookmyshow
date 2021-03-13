@@ -20,8 +20,8 @@ import styles from '../Components/Styling/PaymentsPage.module.css'
 import SecondSection from '../Components/PaymentsPage/SecondSection';
 import DialogActions from '@material-ui/core/DialogActions';
 import DialogContent from '@material-ui/core/DialogContent';
-import DialogContentText from '@material-ui/core/DialogContentText';
 import DialogTitle from '@material-ui/core/DialogTitle';
+import { useHistory } from 'react-router-dom';
 
 import { CountdownCircleTimer } from 'react-countdown-circle-timer'
 
@@ -40,7 +40,7 @@ const Counter = () => (
       ['#A30000', 0.33],
     ]}
   >
-    {({ remainingTime }) => parseFloat(remainingTime / 60).toFixed(2) + "  Minutes"}
+    {({ remainingTime }) => Math.floor(remainingTime / 60) + " : " + remainingTime % 60 + " Minutes"}
   </CountdownCircleTimer>
 )
 
@@ -63,6 +63,7 @@ export default function FullScreenDialog({ proceed }) {
   const classes = useStyles();
   const [state, setState] = React.useState(false);
   const city = useSelector(state => state.app.city)
+  const [counter, setCounter] = React.useState(true);
 
   const handleClose = () => {
     setState(false);
@@ -73,8 +74,15 @@ export default function FullScreenDialog({ proceed }) {
 
   const handlePayment = () => {
     setState(true)
+    setTimeout(() => {
+      setCounter(false);
+    }, 2000)
   }
-
+  const history = useHistory();
+  const handleMove = () => {
+    history.push("/")
+  }
+ 
   console.log(state)
   return (
     <div>
@@ -97,33 +105,28 @@ export default function FullScreenDialog({ proceed }) {
           </div>
           <div className={styles.secondSection}>
             <SecondSection />
-            <div style={{ width: 'fit-content', margin: '20px auto', }}><Counter /></div>
+            <div style={{width:'80px', margin: '20px auto', fontSize:'20px', wordBreak:'break-word'}}><Counter /></div>
           </div>
         </div>
       </Dialog>
 
 
-      <Dialog
-        open={state}
-        TransitionComponent={Transition}
-        keepMounted
-        onClose={handleClose}
-        aria-labelledby="alert-dialog-slide-title"
-        aria-describedby="alert-dialog-slide-description"
-      >
-        <DialogTitle id="alert-dialog-slide-title">{"Your payment has been done"}</DialogTitle>
-        <DialogContent>
-          <DialogContentText id="alert-dialog-slide-description">
-            Let Google help apps determine location. This means sending anonymous location data to
-            Google, even when no apps are running.
-          </DialogContentText>
+      <Dialog onClose={handleClose} aria-labelledby="customized-dialog-title" open={state}
+      TransitionComponent={Transition}>
+        {counter && <DialogTitle id="customized-dialog-title" style={{background:'#F84464', color:'white'}} onClose={handleClose}>
+            Please hold tight we are getting your tickets ready.
+        </DialogTitle>}
+        <DialogContent dividers>
+        {/* <img style={{width:'100%'}} src="https://cdn.dribbble.com/users/108183/screenshots/8286157/media/4b152d30e3d9ae5c87e019e448582495.gif" alt=""/> */}
+          {counter ? <img style={{ width: '70%', margin: '0 15%' }} src="https://cdn.dribbble.com/users/801336/screenshots/10037782/media/d7f28f902699655bba0b75e34dd9eb44.gif" alt="" /> :
+            <div style={{textAlign:'center', color:'white', background:'#F84464', padding:'100px 50px',borderRadius:'5px'}}>
+              <h1>Congratulations!</h1>
+              <div style={{fontSize:'20px'}}>We have got your tickets</div>
+          </div> }
         </DialogContent>
         <DialogActions>
-          <Button onClick={handleClose} color="primary">
-            Disagree
-          </Button>
-          <Button onClick={handleClose} color="primary">
-            Agree
+          <Button autoFocus onClick={handleMove} variant="contained" color="secondary">
+            OK
           </Button>
         </DialogActions>
       </Dialog>

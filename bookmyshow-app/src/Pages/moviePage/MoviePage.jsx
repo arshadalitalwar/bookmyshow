@@ -11,6 +11,8 @@ import Fade from "@material-ui/core/Fade";
 import Typography from "@material-ui/core/Typography";
 import Slider from "@material-ui/core/Slider";
 import { RecommendedMovies } from "../../Components/HomePage/RecommendedMovies";
+import Login from "../LoginPage";
+import { storeAuth } from "../../Redux/app/actions";
 
 function valuetext(value) {
   return `${value}`;
@@ -44,7 +46,10 @@ const MoviePage = () => {
   const data = useSelector((state) => state.data.movies.data);
   const dispatch = useDispatch();
   const history = useHistory();
+  const [action, setAction] = React.useState(false);
+  const isAuth = useSelector(state => state.app.isAuth)
 
+  const [auth, setAuth] = React.useState(false);
   React.useEffect(() => {
     dispatch(getMovies(id));
     window.scrollTo(window.scrollX, 0);
@@ -72,9 +77,35 @@ const MoviePage = () => {
   };
 
   const handleClick = () => {
-    history.push(`/booktickets/${id}`)
+    if (isAuth) {
+      history.push(`/booktickets/${id}`)
+      
+    } else {
+      alert("Please login to book your tickets")
+      setAction(true)
+    }
   }
 
+  const handleCloseLogin = (number) => {
+    if (+number === 7275584516) {
+        setAuth(true)
+        alert("Successfully Logged in")
+    }
+    else if (+number === 123456789) {
+        setAuth(true)
+        alert("Successfully Logged in")
+    }else if (+number === "") {
+        alert("Please type your number")
+        handleCloseLogin(number)
+    }
+    else {
+        alert("You are not registered")
+    }
+    setAction(false);
+  }
+    React.useEffect(() => {
+      dispatch(storeAuth(auth))
+  }, [auth])
   return (
     <div>
       {data && (
@@ -88,6 +119,7 @@ const MoviePage = () => {
               backgroundRepeat: "no-repeat",
             }}
           >
+            <Login action={action} handleCloseLogin={handleCloseLogin} />
             <div className="container__card">
               <img src={data.banner_image_url} alt="title" />
             </div>

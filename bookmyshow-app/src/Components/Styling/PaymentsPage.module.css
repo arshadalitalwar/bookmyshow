@@ -12,6 +12,11 @@
 .secondSection {
 	width: 30%;
 }
+
+.secondSection > div:nth-child(2) {
+	display: flex;
+	justify-content: center;
+}
 .contact > div:first-child,
 .cardDetails > div:first-child {
 	cursor: text;
@@ -62,8 +67,7 @@
 .cardDetails {
 	display: flex;
 	max-width: 100%;
-	padding: 20px;
-	align-items: center;
+	padding: 10px 40px;
 	background: white;
 }
 .StoredCard {
@@ -85,12 +89,12 @@
 	font-size: 12px;
 	color: #7b7d82;
 	clear: both;
-	padding: 15px 20px;
+	padding: 20px 25px;
 	background: #f7f7f7;
 	border-bottom: 1px solid #f0f0f0;
 }
 .cardDetails {
-	padding: 20px;
+	padding: 20px 25px;
 	width: 100%;
 	background: white;
 	display: flex;
@@ -98,18 +102,15 @@
 	justify-content: left;
 }
 .cardDetails span {
-	margin: 20px 0;
+	margin-bottom: 10px;
 	font-weight: 600;
 }
 .sampleCard {
-	width: 60%;
+	width: 50%;
 	padding: 20px;
-
-	/* max-width: 340px; */
 	border-radius: 5px;
 	-webkit-box-shadow: 0 3px 0 #c9ccd2;
 	box-shadow: 0 3px 0 #c9ccd2;
-	padding: 25px 22px 30px 22px;
 	margin-bottom: 20px;
 	position: relative;
 	zoom: 1;

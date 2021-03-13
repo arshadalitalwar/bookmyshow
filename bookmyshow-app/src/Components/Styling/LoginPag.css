@@ -1,0 +1,59 @@
+.facebook {
+	top: 0px;
+	right: 0px;
+	width: 70%;
+	padding: 13px 20px;
+	margin: 20px;
+	font-size: 14px;
+	overflow: hidden;
+	border-radius: 4px;
+	text-align: center;
+	display: inline-block;
+	font-weight: 500;
+	color: rgb(89, 89, 89);
+	border: 1px solid gray;
+	font-size: 18px;
+}
+.facebook i {
+	text-align: left;
+	color: blue;
+	margin-right: 50px;
+}
+
+.google {
+	top: 0px;
+	right: 0px;
+	width: 70%;
+	padding: 13px 20px;
+	margin: 10px 20px;
+	font-size: 14px;
+	overflow: hidden;
+	border-radius: 4px;
+	text-align: center;
+	display: inline-block;
+	font-weight: 500;
+	color: rgb(89, 89, 89);
+	border: 1px solid gray;
+	font-size: 18px;
+}
+.google svg {
+	text-align: left;
+	color: blue;
+	margin-right: 50px;
+}
+.inputs {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 20px;
+}
+.inputs input {
+	border: none;
+	border-bottom: 1px solid gray;
+	padding: 10px;
+	font-size: 16px;
+	outline: none;
+}
+.inputs div {
+	margin: 5px;
+}

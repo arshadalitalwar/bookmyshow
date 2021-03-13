@@ -1,4 +1,5 @@
 import React from "react";
+import { loadData, saveData } from "../../Utils/LocalStorage";
 import {
     GET_LATEST_EVENTS_FAILURE,
     GET_LATEST_EVENTS_REQUEST,
@@ -25,10 +26,11 @@ const initState = {
     latest_events: [],
     isLoading: false,
     isError: false,
-    city: ""
+    city: "",
+    isAuth: loadData("auth") || false
 }
 
-export const reducer = (state = initState, { type, payload, city }) => {
+export const reducer = (state = initState, { type, payload, city, auth }) => {
     switch (type) {
         case "cityChange": {
             return {
@@ -135,6 +137,14 @@ export const reducer = (state = initState, { type, payload, city }) => {
                 ...state,
                 isLoading: false,
                 isError: true
+            }
+        }
+        case "LOGIN-AUTH": {
+            const updated = { auth: auth }
+            saveData("auth", updated)
+            return {
+                ...state,
+                isAuth: updated.auth
             }
         }
         default:
