@@ -17,8 +17,9 @@ import { makeStyles } from '@material-ui/core/styles';
 import Drawer from '@material-ui/core/Drawer';
 import clsx from 'clsx';
 import { useReducer } from 'react';
-import { useDispatch } from 'react-redux';
-import { cityRequest } from '../Redux/app/actions';
+import { useDispatch, useSelector } from 'react-redux';
+import { cityRequest, storeAuth } from '../Redux/app/actions';
+import Login from '../Pages/LoginPage';
 
 
 const Transition = React.forwardRef(function Transition(props, ref) {
@@ -54,6 +55,9 @@ const Navbar = () => {
     const classes = useStyles();
     const fullScreen = useMediaQuery(theme.breakpoints.down('sm'));
     const [state, setState] = React.useState(false);
+    const [auth, setAuth] = React.useState(false);
+    const [action, setAction] = React.useState(false);
+    const isAuth = useSelector(state => state.app.isAuth)
     const handleClickOpen = () => {
         setOpen(true);
     };
@@ -75,6 +79,34 @@ const Navbar = () => {
         setState(!state);
     };
 
+    const handleSignIn = () => {
+        setAction(true)
+        setState(false)
+    }
+    const handleCloseLogin = (number) => {
+        if (+number === 7275584516) {
+            setAuth(true)
+            alert("Successfully Logged in")
+        }
+        else if (+number === 123) {
+            setAuth(true)
+            alert("Successfully Logged in")
+
+        } else if (+number === "") {
+            alert("Please type your number")
+            handleCloseLogin(number)
+        }
+        else {
+            alert("You are not registered")
+        }
+        setAction(false);
+        setState(false)
+    }
+    React.useEffect(() => {
+        dispatch(storeAuth(auth))
+    }, [auth])
+
+    console.log(isAuth)
     return (
         <div >
             <div className={styles.navbar}>
@@ -98,14 +130,16 @@ const Navbar = () => {
                         <div>{cityName}</div>
                         <ArrowDropDownIcon />
                     </div>
+                    {!isAuth && <button onClick={handleSignIn} className={styles.signBtn}>Sign In</button>}
+                    <Login action={action} handleCloseLogin={handleCloseLogin} />
                     <div onClick={toggleDrawer(true)}
                         onClose={toggleDrawer(false)}
                         className={styles.profile}>
-                        <AccountCircleIcon style={{ fontSize: '40px' }} />
-                        <div>Hi, User..</div>
+                        {isAuth && <AccountCircleIcon style={{ fontSize: '40px' }} />}
+                        {isAuth && <div>Hi, User..</div>}
+
                         <Drawer anchor="right" open={state}>
                             <div className={styles.drawer}>
-
                                 <div>
                                     <div>Hi, User </div>
                                     <Link style={{ marginLeft: 0, fontSize: '17px' }} className={styles.link}>Edit Profile</Link>

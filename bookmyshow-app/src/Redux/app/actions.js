@@ -153,3 +153,14 @@ export const getLatestEvents = () => dispatch => {
         .then(res => dispatch(getLatestEventsSuccess(res.data.data)))
         .catch(error => dispatch(getLatestEventsFailure(error)))
 }
+
+
+
+
+// Auth----------------------------------------
+
+
+export const storeAuth = (auth) => {
+   return {type: "LOGIN-AUTH",
+    auth}
+}

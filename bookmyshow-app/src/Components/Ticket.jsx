@@ -30,7 +30,7 @@ export const Ticket = ({ banner_image_url, movie_name, movie_grade, date, day, t
                 <div className={styles.ticket__bottom__info}>
                     <div className={styles.ticket__bottom__info__number}><h1>{silver.length + platinium.length}</h1> <p>Tickets</p></div>
                     <div >
-                        {silver.length &&
+                        {silver.length > 0 &&
                             <div className={styles.ticket__bottom__info__seats}>
                                 SILVER - {
                                     silver?.map((seat, index) => (
