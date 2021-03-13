@@ -69,7 +69,11 @@ npm run server
 2. user can view all the movies by clicking on see all button on the right, there they can also filter the movies according to Language, Genre and Screen type.
 3. User would be able to see more details about the movie by clicking any movie.
 4. They can rate the movie and can book that particular movie by clicking the Book tickets button.
-5. The user will be redirected to the page where they can select the Theater followed by their region.
+5. For login user can use mobile number 
+```
+123456789
+```
+6. The user will be redirected to the page where they can select the Theater followed by their region.
 7. After selecting Theater, the user can choose the seating.
 8. Now, the user can click on the play button and can see the preview of their selection. Also, they can add some food and snacks.
 9. After clicking, Proceed button, the user can make the payment and will be redirected to the home page. 
