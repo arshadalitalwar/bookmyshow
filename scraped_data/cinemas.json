@@ -1,0 +1,424 @@
+[
+    {
+    "name":"Cinepolis: DLF Avenue, Saket",
+    "sub_region":"Delhi",
+    "cancellation_availability":false,
+    "timings":[
+            {
+                "time":"12:00 PM"
+            },
+            {
+                "time":"02:40 PM"
+            },
+            {
+                "time":"09:00 PM"   
+            }
+        ]
+    },
+    {
+    "name":"Cinepolis: Unity One Mall Rohini, Delhi",
+    "sub_region":"Delhi",
+    "cancellation_availability":false,
+    "timings":[
+            {
+                "time":"04:20 PM"   
+            }
+        ]
+    },
+    {
+    "name":"INOX: Nehru Place",
+    "sub_region":"Delhi",
+    "cancellation_availability":true,
+    "timings":[
+            {
+                "time":"01:45 PM"
+            },
+            {
+                "time":"07:40 PM"   
+            }
+        ]
+    },
+    {
+    "name":"PVR Promenade: Vasant Kunj",
+    "sub_region":"Delhi",
+    "cancellation_availability":true,
+    "timings":[
+            {
+                "time":"03:10 PM"
+            },
+            {
+                "time":"05:55 PM"
+            },
+            {
+                "time":"08:40 PM"   
+            }
+        ]
+    },
+    {
+    "name":"PVR: Director`s Cut, Ambience Delhi",
+    "sub_region":"Delhi",
+    "cancellation_availability":true,
+    "timings":[
+            {
+                "time":"03:50 PM"
+            },
+            {
+                "time":"06:35 PM"
+            },
+            {
+                "time":"09:30 PM"   
+            }
+        ]
+    },
+    {
+    "name":"PVR: Pacific, Subhash Nagar, Delhi",
+    "sub_region":"Delhi",
+    "cancellation_availability":false,
+    "timings":[
+            {
+                "time":"07:00 PM"   
+            }
+        ]
+    },
+    {
+    "name":"PVR: Select City Walk, Delhi",
+    "sub_region":"Delhi",
+    "cancellation_availability":false,
+    "timings":[
+            {
+                "time":"12:45 PM"
+            },
+            {
+                "time":"06:20 PM"   
+            }
+        ]
+    },
+    {
+    "name":"PVR: Shalimar Bagh",
+    "sub_region":"Delhi",
+    "cancellation_availability":false,
+    "timings":[
+            {
+                "time":"02:45 PM"
+            },
+            {
+                "time":"08:15 PM"   
+            }
+        ]
+    },
+    {
+    "name":"PVR: Ambience, Gurgaon",
+    "sub_region":"Gurgaon",
+    "cancellation_availability":true,
+    "timings":[
+            {
+                "time":"12:50 PM"
+            },
+            {
+                "time":"06:20 PM"   
+            }
+        ]
+    },
+    {
+    "name":"PVR: MGF, Gurgaon",
+    "sub_region":"Gurgaon",
+    "cancellation_availability":false,
+    "timings":[
+            {
+                "time":"02:00 PM"
+            },
+            {
+                "time":"07:40 PM"   
+            }
+        ]
+    },
+    {
+    "name":"PVR: Gold, Logix City Centre, Noida",
+    "sub_region":"Noida",
+    "cancellation_availability":true,
+    "timings":[
+            {
+                "time":"12:00 PM"
+            },
+            {
+                "time":"02:45 PM"
+            },
+            {
+                "time":"05:30 PM"   
+            }
+        ]
+    },
+    {
+    "name":"PVR: Logix, Noida",
+    "sub_region":"Noida",
+    "cancellation_availability":true,
+    "timings":[
+            {
+                "time":"02:15 PM"
+            },
+            {
+                "time":"03:30 PM"
+            },
+            {
+                "time":"05:00 PM"
+            },
+            {
+                "time":"07:45 PM"   
+            }
+        ]
+    },
+    {
+    "name":"PVR: Gaur City, Greater Noida",
+    "sub_region":"Greater Noida",
+    "cancellation_availability":false,
+    "timings":[
+            {
+                "time":"01:55 PM"   
+            }
+        ]
+    },
+    {
+    "name":"Cinepolis: Janak Cinema, New Delhi",
+    "sub_region":"Delhi",
+    "cancellation_availability":false,
+    "timings":[
+            {
+                "time":"03:55 PM"   
+            }
+        ]
+    },
+    {
+    "name":"INOX Eros One: Jangpura Extn",
+    "sub_region":"Delhi",
+    "cancellation_availability":false,
+    "timings":[
+            {
+                "time":"03:15 PM"   
+            }
+        ]
+    },
+    {
+    "name":"INOX: Insignia At Epicuria, Nehru Place",
+    "sub_region":"Delhi",
+    "cancellation_availability":true,
+    "timings":[
+            {
+                "time":"12:00 PM"
+            },
+            {
+                "time":"03:00 PM"
+            },
+            {
+                "time":"08:15 PM"   
+            }
+        ]
+    },
+    {
+    "name":"INOX: Janak Place",
+    "sub_region":"Delhi",
+    "cancellation_availability":false,
+    "timings":[
+            {
+                "time":"03:05 PM"   
+            }
+        ]
+    },
+    {
+    "name":"PVR: ECX Chanakyapuri, Delhi",
+    "sub_region":"Delhi",
+    "cancellation_availability":false,
+    "timings":[
+            {
+                "time":"05:45 PM"   
+            }
+        ]
+    },
+    {
+    "name":"PVR: Pacific, Dwarka",
+    "sub_region":"Delhi",
+    "cancellation_availability":true,
+    "timings":[
+            {
+                "time":"01:15 PM"   
+            }
+        ]
+    },
+    {
+    "name":"PVR: Plaza-CP, Delhi",
+    "sub_region":"Delhi",
+    "cancellation_availability":false,
+    "timings":[
+            {
+                "time":"04:15 PM"   
+            }
+        ]
+    },
+    {
+    "name":"PVR: Sangam, Delhi",
+    "sub_region":"Delhi",
+    "cancellation_availability":true,
+    "timings":[
+            {
+                "time":"05:00 PM"   
+            }
+        ]
+    },
+    {
+    "name":"PVR: Select City Walk (Gold), Delhi",
+    "sub_region":"Delhi",
+    "cancellation_availability":false,
+    "timings":[
+            {
+                "time":"02:55 PM"
+            },
+            {
+                "time":"08:30 PM"   
+            }
+        ]
+    },
+    {
+    "name":"Carnival: Raheja Mall, Gurgaon",
+    "sub_region":"Gurgaon",
+    "cancellation_availability":false,
+    "timings":[
+            {
+                "time":"02:30 PM"   
+            }
+        ]
+    },
+    {
+    "name":"INOX Gurgaon Ardee Mall",
+    "sub_region":"Gurgaon",
+    "cancellation_availability":true,
+    "timings":[
+            {
+                "time":"12:00 PM"
+            },
+            {
+                "time":"02:35 PM"
+            },
+            {
+                "time":"05:10 PM"
+            },
+            {
+                "time":"07:45 PM"   
+            }
+        ]
+    },
+    {
+    "name":"INOX Sapphire 90 Mall: Gurugram",
+    "sub_region":"Gurgaon",
+    "cancellation_availability":true,
+    "timings":[
+            {
+                "time":"04:00 PM"   
+            }
+        ]
+    },
+    {
+    "name":"INOX: Gurgaon Sapphire 83",
+    "sub_region":"Gurgaon",
+    "cancellation_availability":true,
+    "timings":[
+            {
+                "time":"03:00 PM"   
+            }
+        ]
+    },
+    {
+    "name":"Miraj Maximum Metropolis Mall: Gurgaon",
+    "sub_region":"Gurgaon",
+    "cancellation_availability":false,
+    "timings":[
+            {
+                "time":"05:15 PM"   
+            }
+        ]
+    },
+    {
+    "name":"PVR: Ambience Gold, Gurgaon",
+    "sub_region":"Gurgaon",
+    "cancellation_availability":false,
+    "timings":[
+            {
+                "time":"03:15 PM"
+            },
+            {
+                "time":"08:05 PM"   
+            }
+        ]
+    },
+    {
+    "name":"PVR: Mega Mall, Gurgaon",
+    "sub_region":"Gurgaon",
+    "cancellation_availability":true,
+    "timings":[
+            {
+                "time":"04:30 PM"   
+            }
+        ]
+    },
+    {
+    "name":"PVR: Star Mall, Gurgaon",
+    "sub_region":"Gurgaon",
+    "cancellation_availability":false,
+    "timings":[
+            {
+                "time":"07:20 PM"   
+            }
+        ]
+    },
+    {
+    "name":"Carnival: TGIP",
+    "sub_region":"Noida",
+    "cancellation_availability":true,
+    "timings":[
+            {
+                "time":"02:30 PM"
+            },
+            {
+                "time":"05:00 PM"   
+            }
+        ]
+    },
+    {
+    "name":"INOX: Omaxe Connaught Place Mall, Greater Noida",
+    "sub_region":"Greater Noida",
+    "cancellation_availability":false,
+    "timings":[
+            {
+                "time":"07:15 PM"   
+            }
+        ]
+    },
+    {
+    "name":"INOX: Crown Interiorz Mall, Delhi Mathura Road",
+    "sub_region":"Faridabad",
+    "cancellation_availability":false,
+    "timings":[
+            {
+                "time":"03:00 PM"   
+            }
+        ]
+    },
+    {
+    "name":"PVR: Piyush Mahendra, Faridabad",
+    "sub_region":"Faridabad",
+    "cancellation_availability":false,
+    "timings":[
+            {
+                "time":"03:00 PM"   
+            }
+        ]
+    },
+    {
+    "name":"INOX: Shipra Mall, Ghaziabad",
+    "sub_region":"Ghaziabad",
+    "cancellation_availability":false,
+    "timings":[
+            {
+                "time":"03:15 PM"   
+            }
+        ]
+    }
+]

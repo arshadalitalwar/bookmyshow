@@ -1,0 +1,261 @@
+[
+        {
+            "food_name": "Super Saver Combo",
+            "is_popcorn":false,
+            "is_coke":false,
+            "is_combo":true,
+            "food_tag": "Small Popcorn + Nachos + 2 Small Coke",
+            "food_image": "https://in.bmscdn.com/bmsin/v2/Web-v2/d-combo/1020399_30122020131602.jpg",
+            "food_price":250,
+            "count":0
+        },
+        {
+            "food_name": "Georgia Cappuccino",
+            "is_popcorn":false,
+            "is_coke":false,
+            "is_combo":true,
+            "food_tag": "Georgia Cappuccino",
+            "food_image": "https://in.bmscdn.com/bmsin/v2/Web-v2/d-combo/1020080_17082018155618.jpg",
+            "food_price":100,
+            "count":0
+        },
+        {
+            "food_name": "Big Tub Cheese Popcorn + 2 Extra Large Coke(0) 800 COKE EXTRA LARGE(2) 580.00 POPCORN CHEESE BIG TUB(1) 220.00 Get Away Combo (Cheese)",
+            "is_popcorn":false,
+            "is_coke":false,
+            "is_combo":true,
+            "food_tag": "Big Tub Cheese Popcorn + 2 Extra Lar ...",
+            "food_image": "https://in.bmscdn.com/bmsin/v2/Web-v2/d-combo/2000096_25022020115757.jpg",
+            "food_price":655,
+            "count":0
+        },
+        {
+            "food_name": "Large Salted Popcorn",
+            "is_popcorn":true,
+            "is_coke":false,
+            "is_combo":false,
+            "food_tag": "Large Salted Popcorn",
+            "food_image": "https://in.bmscdn.com/bmsin/v2/Web-v2/d-combo/2000098_07112019141916.jpg",
+            "food_price":149,
+            "count":0
+        },
+        {
+            "food_name": "Tub Salted Popcorn",
+            "is_popcorn":true,
+            "is_coke":false,
+            "is_combo":false,
+            "food_tag": "Tub Salted Popcorn",
+            "food_image": "https://in.bmscdn.com/bmsin/v2/Web-v2/d-combo/2000095_07112019141349.jpg",
+            "food_price":190,
+            "count":0
+        },
+        {
+            "food_name": "Big Tub Cheese Popcorn",
+            "is_popcorn":true,
+            "is_coke":false,
+            "is_combo":true,
+            "food_tag": "Big Tub Cheese Popcorn",
+            "food_image": "https://in.bmscdn.com/bmsin/v2/Web-v2/d-combo/2000095_07112019141349.jpg",
+            "food_price":210,
+            "count":0
+        },
+        {
+            "food_name": "Large Coke",
+            "is_popcorn":false,
+            "is_coke":true,
+            "is_combo":false,
+            "food_tag": "Large Coke",
+            "food_image": "https://in.bmscdn.com/bmsin/v2/Web-v2/d-combo/1020011_17082018145045.jpg",
+            "food_price":90,
+            "count":0        
+        },
+        {
+            "food_name": "Extra Large Coke",
+            "is_popcorn":false,
+            "is_coke":true,
+            "is_combo":false,
+            "food_tag": "Extra Large Coke",
+            "food_image": "https://in.bmscdn.com/bmsin/v2/Web-v2/d-combo/1020011_17082018145045.jpg",
+            "food_price":120,
+            "count":0
+        },
+        {
+            "food_name": "Nachos with Salsa & Cheese Sauce + Large Coke(0) 500 COKE LARGE(1) 260.00 NACHOS JALAPENO WITH CHEESE & SALSA(1) 240.00 Nachos Combo",
+            "is_popcorn":false,
+            "is_coke":false,
+            "is_combo":true,
+            "food_tag": "Nachos with Salsa & Cheese Sauce + L ...",
+            "food_image": "https://in.bmscdn.com/bmsin/v2/Web-v2/d-combo/1020008_14082018151115.jpg",
+            "food_price":250,
+            "count":0
+        },
+        {
+            "food_name": "Tub Caramel Popcorn",
+            "is_popcorn":true,
+            "is_coke":false,
+            "is_combo":false,
+            "food_tag": "Tub Caramel Popcorn",
+            "food_image": "https://in.bmscdn.com/bmsin/v2/Web-v2/d-combo/2000095_07112019141349.jpg",
+            "food_price":110,
+            "count":0
+        },
+        {
+            "food_name": "Tub Cheese Popcorn",
+            "is_popcorn":true,
+            "is_coke":false,
+            "is_combo":false,
+            "food_tag": "Tub Cheese Popcorn",
+            "food_image": "https://in.bmscdn.com/bmsin/v2/Web-v2/d-combo/2000095_07112019141349.jpg",
+            "food_price":110,
+            "count":0
+        },
+        {
+            "food_name": "Big Tub Salted Popcorn",
+            "is_popcorn":true,
+            "is_coke":false,
+            "is_combo":false,
+            "food_tag": "Big Tub Salted Popcorn",
+            "food_image": "https://in.bmscdn.com/bmsin/v2/Web-v2/d-combo/2000095_07112019141349.jpg",
+            "food_price":100,
+            "count":0
+        },
+        {
+            "food_name": "Price Breakup Tub Caramel Popcorn + 2 Large Coke(0) 720 COKE LARGE(2) 520.00 POPCORN CARAMEL TUB(1) 200.00 Tub Combo (Caramel)",
+            "is_popcorn":false,
+            "is_coke":false,
+            "is_combo":true,
+            "food_tag": "Tub Caramel Popcorn + 2 Large Coke",
+            "food_image": "https://in.bmscdn.com/bmsin/v2/Web-v2/d-combo/2000096_25022020115757.jpg",
+            "food_price":750,
+            "count":0
+        },
+        {
+            "food_name": "Price Breakup Tub Cheese Popcorn + 2 Large Coke(0) 720 COKE LARGE(2) 520.00 POPCORN CHEESE TUB(1) 200.00 Tub Combo (Cheese)",
+            "is_popcorn":false,
+            "is_coke":false,
+            "is_combo":true,
+            "food_tag": "Tub Cheese Popcorn + 2 Large Coke",
+            "food_image": "https://in.bmscdn.com/bmsin/v2/Web-v2/d-combo/2000096_25022020115757.jpg",
+            "food_price":690,
+            "count":0
+        },
+        {
+            "food_name": "Large Caramel Popcorn",
+            "is_popcorn":true,
+            "is_coke":false,
+            "is_combo":false,
+            "food_tag": "Large Caramel Popcorn",
+            "food_image": "https://in.bmscdn.com/bmsin/v2/Web-v2/d-combo/2000098_07112019141916.jpg",
+            "food_price":150,
+            "count":0
+        },
+        {
+            "food_name": "Large Cheese Popcorn",
+            "is_popcorn":true,
+            "is_coke":false,
+            "is_combo":false,
+            "food_tag": "Large Cheese Popcorn",
+            "food_image": "https://in.bmscdn.com/bmsin/v2/Web-v2/d-combo/2000098_07112019141916.jpg",
+            "food_price":150,
+            "count":0
+        },
+        {
+            "food_name": "Cardamom Tea",
+            "is_popcorn":false,
+            "is_coke":false,
+            "is_combo":true,
+            "food_tag": "Cardamom Tea",
+            "food_image": "https://in.bmscdn.com/bmsin/v2/Web-v2/d-combo/1020099_16082018173339.jpg",
+            "food_price":99,
+            "count":0        
+        },
+        {
+            "food_name": "Iced Tea 400ml",
+            "is_popcorn":false,
+            "is_coke":false,
+            "is_combo":true,
+            "food_tag": "Iced Tea 400ml",
+            "food_image": "https://in.bmscdn.com/bmsin/v2/Web-v2/d-combo/1020168_16082018173619.jpg",
+            "food_price":99,
+            "count":0        
+        },
+        {
+            "food_name": "Big Tub Caramel Popcorn",
+            "is_popcorn":false,
+            "is_coke":false,
+            "is_combo":true,
+            "food_tag": "Big Tub Caramel Popcorn",
+            "food_image": "https://in.bmscdn.com/bmsin/v2/Web-v2/d-combo/2000095_07112019141349.jpg",
+            "food_price":130,
+            "count":0
+        },
+        {
+            "food_name": "Price Breakup Big Tub Caramel Popcorn + 2 Extra Large Coke(0) 800 COKE EXTRA LARGE(2) 580.00 POPCORN CARAMEL BIG TUB(1) 220.00 Get Away Combo (Caramel)",
+            "is_popcorn":false,
+            "is_coke":false,
+            "is_combo":true,
+            "food_tag": "Big Tub Caramel Popcorn + 2 Extra La ...",
+            "food_image": "https://in.bmscdn.com/bmsin/v2/Web-v2/d-combo/2000096_25022020115757.jpg",
+            "food_price":390,
+            "count":0
+        },
+        {
+            "food_name": "Tomato Premix Soup",
+            "is_popcorn":false,
+            "is_coke":true,
+            "is_combo":false,
+            "food_tag": "Tomato Premix Soup",
+            "food_image": "https://in.bmscdn.com/bmsin/v2/Web-v2/d-combo/1174787_04012019151511.jpg",
+            "food_price":99,"count":0        
+        },
+        {
+            "food_name": "Turmeric Latte",
+            "is_popcorn":false,
+            "is_coke":true,
+            "is_combo":false,
+            "food_tag": "Turmeric Latte",
+            "food_image": "https://in.bmscdn.com/bmsin/v2/Web-v2/d-combo/1020080_17082018155618.jpg",
+            "food_price":150,
+            "count":0
+        },
+        {
+            "food_name": "Greenfit Tea - Lemon Honey",
+            "is_popcorn":false,
+            "is_coke":true,
+            "is_combo":false,
+            "food_tag": "Greenfit Tea - Lemon Honey",
+            "food_image": "https://in.bmscdn.com/bmsin/v2/Web-v2/d-combo/1020274_17092018164320.jpg",
+            "food_price":99,
+            "count":0        
+        },
+        {
+            "food_name": "Greenfit Tea - Tulsi",
+            "is_popcorn":false,
+            "is_coke":true,
+            "is_combo":false,
+            "food_tag": "Greenfit Tea - Tulsi",
+            "food_image": "https://in.bmscdn.com/bmsin/v2/Web-v2/d-combo/1020274_17092018164320.jpg",
+            "food_price":99,
+            "count":0        
+        },
+        {
+            "food_name": "Greenfit Tea - Vitality",
+            "is_popcorn":false,
+            "is_coke":true,
+            "is_combo":false,
+            "food_tag": "Greenfit Tea - Vitality",
+            "food_image": "https://in.bmscdn.com/bmsin/v2/Web-v2/d-combo/1020274_17092018164320.jpg",
+            "food_price":99,
+            "count":0        
+        },
+        {
+            "food_name": "Manchow Premix Soup",
+            "is_popcorn":false,
+            "is_coke":true,
+            "is_combo":false,
+            "food_tag": "Manchow Premix Soup",
+            "food_image": "https://in.bmscdn.com/bmsin/v2/Web-v2/d-combo/1020343_02012021101017.jpg",
+            "food_price":99,
+            "count":0        
+        }
+]

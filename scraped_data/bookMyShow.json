@@ -1,0 +1,2375 @@
+[
+  {
+   "movie_name": "Wonder Woman 1984",
+   "movie_grade": "UA",
+   "languages": "English, Hindi, Tamil, Telugu",
+   "banner_image_url": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@heart_202006300400.png,ox-24,oy-617,ow-29:ote-NzAlICAyN2sgdm90ZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70/et00077622-vumtbffsyy-portrait.jpg",
+   "cover_image_url":"https://in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/wonder-woman-1984-et00077622-22-02-2021-07-00-29.jpg",
+   "rating":{"percentage":73,
+    "no_of_ratings": 7.5},
+   "movie_duration":"2h 31m",
+   "release_date":"24 Dec, 2020",
+   "is_premier":true,
+   "screen_type": [
+    {
+     "type": "2D"
+    },
+    {
+     "type": "MX4D"
+    },
+    {
+     "type": "4DX"
+    },
+    {
+     "type": "2D SCREEN X"
+    },
+    {
+     "type": "IMAX 2D"
+    }
+   ],
+   "movie_genre": [
+    {
+     "genre": "Action"
+    },
+    {
+     "genre": "Adventure"
+    },
+    {
+     "genre": "Fantasy"
+    }
+   ],
+   "about_movie": "Set in the 1980s, Wonder Woman`s next big screen adventure finds her facing two all-new foes, Max Lord and The Cheetah, and the unexpected return of a face from her past.",
+   "cast": [
+    {
+     "original_name": "Gal Gadot",
+     "character": "as Wonder Woman/ Diana Prince",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/gal-gadot-11088-17-10-2017-11-45-36.jpg"
+    },
+    {
+     "original_name": "Chris Pine",
+     "character": "as Steve Trevor",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/chris-pine-435-24-03-2017-13-51-09.jpg"
+    },
+    {
+     "original_name": "Kristen Wiig",
+     "character": "as Cheetah",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/kristen-wiig-9007-24-03-2017-12-36-08.jpg"
+    },
+    {
+     "original_name": "Pedro Pascal",
+     "character": "as Max Lord",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/pedro-pascal-1065016-24-03-2017-17-40-11.jpg"
+    },
+    {
+     "original_name": "Connie Nielsen",
+     "character": "as Hippolyta",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/connie-nielsen-7706-15-05-2017-11-42-20.jpg"
+    },
+    {
+     "original_name": "Robin Wright",
+     "character": "as Antiope",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/robin-wright-22180-24-03-2017-12-31-27.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "name": "Patty Jenkins",
+     "crew_position": "Director, Producer, Screenplay",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/patty-jenkins-1067968-05-02-2021-12-17-23.jpg"
+    },
+    {
+     "name": "Gal Gadot",
+     "crew_position": "Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/gal-gadot-11088-17-10-2017-11-45-36.jpg"
+    },
+    {
+     "name": "Zack Snyder",
+     "crew_position": "Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/zack-snyder-5255-24-03-2017-15-46-59.jpg"
+    },
+    {
+     "name": "Deborah Snyder",
+     "crew_position": "Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/deborah-snyder-iein018495-15-05-2017-11-47-22.jpg"
+    },
+    {
+     "name": "Geoff Johns",
+     "crew_position": "Producer, Screenplay",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/geoff-johns-1074456-07-11-2017-10-24-41.jpg"
+    },
+    {
+     "name": "Hans Zimmer",
+     "crew_position": "Musician",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/hans-zimmer-786-24-03-2017-12-32-04.jpg"
+    },
+    {
+     "name": "Dave Callaham",
+     "crew_position": "Screenplay",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/dave-callaham-18618-24-03-2017-15-56-01.jpg"
+    }
+   ]
+  },
+  {
+   "movie_name": "Tom & Jerry",
+   "movie_grade": "U",
+   "languages": "English, Hindi, Tamil, Telugu",
+   "banner_image_url": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@heart_202006300400.png,ox-24,oy-617,ow-29:ote-NzklICA4ayB2b3Rlcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-70/et00300988-zuggcjdlkr-portrait.jpg",
+   "cover_image_url":"https://in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/tom-and-jerry-et00300988-16-02-2021-03-03-32.jpg",
+   "rating":{"percentage":79,
+    "no_of_ratings": 8.9},
+   "movie_duration":"1h 41m",
+   "release_date":"19 Feb, 2021",
+   "is_premier":false,
+   "movie_genre": [
+    {
+     "genre": "Action"
+    },
+    {
+     "genre": "Animation"
+    },
+    {
+     "genre": "Comedy"
+    }
+   ],
+   "about_movie": "Infamous frenemies Tom and Jerry move to the city to start life anew. When Jerry moves into New York`s finest hotel, the event manager Kayla teams up with Tom to evict the mouse so that the `wedding of the century` can go off without a hitch. The result is one of the most elaborate cat-and-mouse games ever!",
+   "cast": [
+    {
+     "original_name": "Chloë Grace Moretz",
+     "character": "as Kayla",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/chlo-e-grace-moretz-1054117-24-03-2017-14-00-00.jpg"
+    },
+    {
+     "original_name": "Michael Pena",
+     "character": "as Terrance",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/michael-pena-1043503-09-03-2018-12-51-29.jpg"
+    },
+    {
+     "original_name": "Rob Delaney",
+     "character": "as DuBros",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/rob-delaney-1092791-16-05-2018-09-51-39.jpg"
+    },
+    {
+     "original_name": "Ken Jeong",
+     "character": "as Jackie",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/ken-jeong-7903-24-03-2017-12-33-05.jpg"
+    },
+    {
+     "original_name": "Pallavi Sharda",
+     "character": "as Preeta",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/pallavi-sharda-19616-24-03-2017-15-57-10.jpg"
+    },
+    {
+     "original_name": "Jordan Bolger",
+     "character": "as Cameron",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/jordan-bolger-2011778-16-02-2021-01-22-00.jpg"
+    },
+    {
+     "original_name": "Colin Jost",
+     "character": "as Ben",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/colin-jost-2010491-19-11-2020-03-20-01.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "name": "Tim Story",
+     "crew_position": "Director, Executive Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/tim-story-2374-24-03-2017-17-34-45.jpg"
+    },
+    {
+     "name": "Christopher De Faria",
+     "crew_position": "Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/christopher-de-faria-iein010701-24-03-2017-15-00-46.jpg"
+    },
+    {
+     "name": "Kevin Costello",
+     "crew_position": "Writer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/kevin-costello-2011779-16-02-2021-01-23-18.jpg"
+    },
+    {
+     "name": "Christopher Lennertz",
+     "crew_position": "Musician",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/christopher-lennertz-1049325-12-04-2017-23-50-35.jpg"
+    },
+    {
+     "name": "Allison Abbate",
+     "crew_position": "Executive Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/allison-abbate-iein076454-25-06-2020-16-09-13.jpg"
+    },
+    {
+     "name": "Alan Stewart",
+     "crew_position": "Cinematographer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/alan-stewart-iein078876-23-09-2019-16-35-13.jpg"
+    },
+    {
+     "name": "Peter S. Elliot",
+     "crew_position": "Editor",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/peter-s.-elliot-iein071520-16-02-2021-14-48-57.jpg"
+    },
+    {
+     "name": "James Hambidge",
+     "crew_position": "Production Designer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/james-hambidge-iein028813-16-02-2021-14-50-25.jpg"
+    },
+    {
+     "name": "Lucinda Syson",
+     "crew_position": "Casting Director",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/lucinda-syson-iein031945-24-03-2017-14-31-02.jpg"
+    }
+   ]
+  },
+  {
+   "movie_name": "Chaos Walking",
+   "movie_grade": "UA",
+   "languages": "English",
+   "banner_image_url": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@heart_202006300400.png,ox-24,oy-617,ow-29:ote-NjQlICA0Mjggdm90ZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70/et00301090-khctvlhqmv-portrait.jpg",
+   "cover_image_url":"https://in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/chaos-walking-et00301090-02-03-2021-12-10-31.jpg",
+   "rating":{"percentage":64,
+    "no_of_ratings": 42},
+   "movie_duration":"1h 48m",
+   "release_date":"05 Mar, 2021",
+   "is_premier":false,
+   "movie_genre": [
+    {
+     "genre": "Action"
+    },
+    {
+     "genre": "Adventure"
+    },
+    {
+     "genre": "Sci-Fi"
+    },
+    {
+     "genre": "Thriller"
+    }
+   ],
+   "about_movie": "In the not too distant future, Todd Hewitt discovers Viola, a mysterious girl who crash lands on his planet, where all the women have disappeared and the men are afflicted by \"the Noise\" - a force that puts all their thoughts on display. In this dangerous landscape, Viola`s life is threatened - and as Todd vows to protect her, he will have to discover his own inner power and unlock the planet`s dark secrets.",
+   "cast": [
+    {
+     "original_name": "Tom Holland",
+     "character": "as Todd Hewitt",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/tom-holland-33741-24-03-2017-13-52-51.jpg"
+    },
+    {
+     "original_name": "Daisy Ridley",
+     "character": "as Viola Eade",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/daisy-ridley-1061123-24-03-2017-16-20-53.jpg"
+    },
+    {
+     "original_name": "Mads Mikkelsen",
+     "character": "as Mayor Prentiss",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/mads-mikkelsen-1320-02-12-2020-07-05-49.jpg"
+    },
+    {
+     "original_name": "Demian Bichir",
+     "character": "as Ben",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/demian-bichir-1043508-24-03-2017-17-42-07.jpg"
+    },
+    {
+     "original_name": "Cynthia Erivo",
+     "character": "as Hildy",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/cynthia-erivo-2012085-02-03-2021-10-55-43.jpg"
+    },
+    {
+     "original_name": "Nick Jonas",
+     "character": "as Davy Prentiss Jr.",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/nick-jonas-1074123-23-09-2016-03-50-48.jpg"
+    },
+    {
+     "original_name": "Kurt Sutter",
+     "character": "as Cillian",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/kurt-sutter-iein000533-24-03-2017-12-33-29.jpg"
+    },
+    {
+     "original_name": "David Oyelowo",
+     "character": "as Aaron",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/david-oyelowo-539-24-03-2017-15-43-22.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "name": "Doug Liman",
+     "crew_position": "Director",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/doug-liman-4639-28-02-2017-04-38-57.jpg"
+    },
+    {
+     "name": "Doug Davison",
+     "crew_position": "Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/doug-davison-iein071590-29-07-2020-15-34-08.jpg"
+    },
+    {
+     "name": "Allison Shearmur",
+     "crew_position": "Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/allison-shearmur-iein072494-16-05-2018-15-19-59.jpg"
+    },
+    {
+     "name": "Erwin Stoff",
+     "crew_position": "Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/erwin-stoff-iein095859-18-02-2020-12-56-43.jpg"
+    },
+    {
+     "name": "Marco Beltrami",
+     "crew_position": "Musician",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/marco-beltrami-1375-24-03-2017-12-47-50.jpg"
+    },
+    {
+     "name": "Ray Angelic",
+     "crew_position": "Executive Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/ray-angelic-iein073038-02-03-2021-10-57-17.jpg"
+    },
+    {
+     "name": "Erik Feig",
+     "crew_position": "Executive Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/erik-feig-iein072337-02-03-2021-10-58-31.jpg"
+    },
+    {
+     "name": "Patrick Ness",
+     "crew_position": "Screenplay",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/patrick-ness-1068690-24-03-2017-17-19-49.jpg"
+    },
+    {
+     "name": "Christopher D. Ford",
+     "crew_position": "Screenplay",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/christopher-d.-ford-1057904-24-03-2017-17-55-32.jpg"
+    },
+    {
+     "name": "Ben Seresin",
+     "crew_position": "Cinematographer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/ben-seresin-iein072943-29-05-2017-13-06-05.jpg"
+    }
+   ]
+  },
+  {
+   "movie_name": "Suraj Pe Mangal Bhari",
+   "movie_grade": "UA",
+   "languages": "Hindi",
+   "banner_image_url": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@heart_202006300400.png,ox-24,oy-617,ow-29:ote-NzQlICA0ayB2b3Rlcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-70/et00126788-qqpzhueemc-portrait.jpg",
+   "cover_image_url":"https://in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/suraj-pe-mangal-bhari-et00126788-21-10-2020-06-54-18.jpg",
+   "rating":{"percentage":74,
+    "no_of_ratings": 4.3},
+   "movie_duration":"2h 21m",
+   "release_date":"15 Nov, 2020",
+   "is_premier":false,
+   "movie_genre": [
+    {
+     "genre": "Comedy"
+    },
+    {
+     "genre": "Family"
+    }
+   ],
+   "about_movie": "Suraj Singh Dhillon is an eligible bachelor who finds a prospective match blocked because of the work of a wedding detective who performs background checks of grooms. In order to take revenge, he decides to woo the detective`s sister.",
+   "cast": [
+    {
+     "original_name": "Manoj Bajpayee",
+     "character": "as Detective Madhu Mangal Rane",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/manoj-bajpayee-25584-03-01-2017-08-11-49.jpg"
+    },
+    {
+     "original_name": "Diljit Dosanjh",
+     "character": "as Suraj Singh Dhillon",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/diljit_dosanjh_22800_29-07-2016_07-22-10.jpg"
+    },
+    {
+     "original_name": "Fatima Sana Shaikh",
+     "character": "Actor",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/fatima-sana-shaikh-1057789-11-01-2021-05-20-38.jpg"
+    },
+    {
+     "original_name": "Vijay Raaz",
+     "character": "Actor",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/vijay-raaz-2465-04-07-2018-12-40-58.jpg"
+    },
+    {
+     "original_name": "Manoj Pahwa",
+     "character": "Actor",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/manoj-pahwa-1366-24-03-2017-12-41-27.jpg"
+    },
+    {
+     "original_name": "Annu Kapoor",
+     "character": "Actor",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/annu-kapoor-31612-24-03-2017-17-51-39.jpg"
+    },
+    {
+     "original_name": "Neha Pendse",
+     "character": "Actor",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/neha-pendse-13492-24-03-2017-13-58-05.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "name": "Abhishek Sharma",
+     "crew_position": "Director",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/abhishek-sharma-14577-24-03-2017-14-38-56.jpg"
+    },
+    {
+     "name": "Rohan Shankar",
+     "crew_position": "Writer, Screenplay",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/rohan-shankar-1264941-26-02-2019-12-13-38.jpg"
+    },
+    {
+     "name": "Javed Ali",
+     "crew_position": "Musician",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/javed-ali-22713-24-03-2017-17-39-17.jpg"
+    },
+    {
+     "name": "Anshuman Mahaley",
+     "crew_position": "Cinematographer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/anshuman-mahaley-iein009907-08-08-2017-16-17-46.jpg"
+    }
+   ]
+  },
+  {
+   "movie_name": "Chakra Ka Rakshak",
+   "movie_grade": "UA",
+   "languages": "Hindi",
+   "banner_image_url": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@heart_202006300400.png,ox-24,oy-617,ow-29:ote-ODMlICAxayB2b3Rlcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-70/et00306685-caeuvkwutx-portrait.jpg",
+   "cover_image_url":"https://in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/chakra-ka-rakshak-et00306685-18-02-2021-05-17-35.jpg",
+   "rating":{"percentage":83,
+    "no_of_ratings": 1.6},
+   "movie_duration":"2h 10m",
+   "release_date":"19 Feb, 2021",
+   "is_premier":false,
+   "movie_genre": [
+    {
+     "genre": "Action"
+    },
+    {
+     "genre": "Thriller"
+    }
+   ],
+   "about_movie": "Chakra Ka Rakshak is a cyber-crime thriller where an officer is set on a mission to take down a bunch of goons who practise evil acts on the internet.",
+   "cast": [
+    {
+     "original_name": "Vishal Krishna Reddy",
+     "character": "as Subash Chandra Bose",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/vishal-krishna-reddy-16275-24-03-2017-15-17-54.jpg"
+    },
+    {
+     "original_name": "Shraddha Srinath",
+     "character": "as Gayatri",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/shraddha-srinath-30452-24-03-2017-16-02-10.jpg"
+    },
+    {
+     "original_name": "Robo Shankar",
+     "character": "as Kumar",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/robo-shankar-1052434-24-03-2017-17-46-58.jpg"
+    },
+    {
+     "original_name": "K R Vijaya",
+     "character": "as Grandmother",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/k-r-vijaya-iein004821-24-03-2017-13-00-54.jpg"
+    },
+    {
+     "original_name": "Manobala",
+     "character": "as Gayatri`s Uncle",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/manobala-mahadevan-1051027-08-02-2018-05-42-16.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "name": "MS Anandan",
+     "crew_position": "Director, Writer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/ms-anandan-2009323-16-02-2021-04-39-20.jpg"
+    },
+    {
+     "name": "Vishal Krishna Reddy",
+     "crew_position": "Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/vishal-krishna-reddy-16275-24-03-2017-15-17-54.jpg"
+    },
+    {
+     "name": "Yuvan Shankar Raja",
+     "crew_position": "Musician",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/yuvan-shankar-raja-2551-24-03-2017-12-31-18.jpg"
+    },
+    {
+     "name": "Karunakaran B",
+     "crew_position": "Lyricist",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/karunakaran-b-iein018622-16-02-2021-16-42-32.jpg"
+    },
+    {
+     "name": "Madhan Karky",
+     "crew_position": "Lyricist",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/madhan-karky-40067-24-04-2018-12-20-42.jpg"
+    },
+    {
+     "name": "K Balasubramaniam",
+     "crew_position": "Cinematographer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/k-balasubramaniam-iein001962-24-03-2017-12-40-27.jpg"
+    },
+    {
+     "name": "Thiyagu",
+     "crew_position": "Editor",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/thiyagu-3386-16-02-2021-04-45-55.jpg"
+    }
+   ]
+  },
+  {
+   "movie_name": "The Marksman",
+   "movie_grade": "UA",
+   "languages": "English, Hindi, Tamil, Telugu",
+   "banner_image_url": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@heart_202006300400.png,ox-24,oy-617,ow-29:ote-NjclICA3MzMgdm90ZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70/et00307138-eghqlqudkz-portrait.jpg",
+   "cover_image_url":"https://in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/the-marksman-et00307138-24-02-2021-12-37-43.jpg",
+   "rating":{"percentage":67,
+    "no_of_ratings": 73},
+   "movie_duration":"1h 58m",
+   "release_date":"26 Feb, 2021",
+   "is_premier":false,
+   "movie_genre": [
+    {
+     "genre": "Action"
+    },
+    {
+     "genre": "Thriller"
+    }
+   ],
+   "about_movie": "Retired U.S. Marine Jim Hanson, who lives by the Arizona-Mexico border, finds himself on a mission to protect a young Mexican boy who is on the run from a drug cartel and get him to his family in Chicago.",
+   "cast": [
+    {
+     "original_name": "Liam Neeson",
+     "character": "as Jim",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/liam-neeson-1280-24-03-2017-12-37-10.jpg"
+    },
+    {
+     "original_name": "Katheryn Winnick",
+     "character": "as Sarah",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/katheryn-winnick-1074904-13-10-2020-03-18-49.jpg"
+    },
+    {
+     "original_name": "Juan Pablo Raba",
+     "character": "as Mauricio",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/juan-pablo-raba-1059900-24-03-2017-16-19-51.jpg"
+    },
+    {
+     "original_name": "Dylan Kenin",
+     "character": "as Randall",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/dylan-kenin-1060495-25-02-2021-01-37-02.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "name": "Robert Lorenz",
+     "crew_position": "Director, Producer, Writer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/robert-lorenz-32600-25-02-2021-01-39-29.jpg"
+    },
+    {
+     "name": "Sean Callery",
+     "crew_position": "Musician",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/sean-callery-iein028732-24-03-2017-14-23-42.jpg"
+    },
+    {
+     "name": "Nicolas Chartier",
+     "crew_position": "Executive Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/nicolas-chartier-iein095963-03-04-2017-18-54-19.jpg"
+    },
+    {
+     "name": "Jonathan Deckter",
+     "crew_position": "Executive Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/jonathan-deckter-iein117918-25-02-2021-13-43-23.jpg"
+    }
+   ]
+  },
+  {
+   "movie_name": "Judas And The Black Messiah",
+   "movie_grade": "A",
+   "languages": "English",
+   "banner_image_url": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@heart_202006300400.png,ox-24,oy-617,ow-29:ote-NzclICAxMjIgdm90ZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70/et00136763-ubuynaqkau-portrait.jpg",
+   "cover_image_url":"https://in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/judas-and-the-black-messiah-et00136763-10-02-2021-06-34-19.jpg",
+   "rating":{"percentage":77,
+    "no_of_ratings": 12},
+   "movie_duration":"2h 07m",
+   "release_date":"05 Mar, 2021",
+   "is_premier":false,
+   "movie_genre": [
+    {
+     "genre": "Biography"
+    },
+    {
+     "genre": "Drama"
+    }
+   ],
+   "about_movie": "Based on the life of Fred Hampton, the Chairman of the Illinois chapter of the Black Panther Party, the film talks about his inspiring a generation of black people to fight for their rights. However, a small-time thief named William O`Neal is coerced into providing intel from inside the party.",
+   "cast": [
+    {
+     "original_name": "Daniel Kaluuya",
+     "character": "as Fred Hampton",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/daniel-kaluuya-22405-24-03-2017-15-58-01.jpg"
+    },
+    {
+     "original_name": "Jesse Plemons",
+     "character": "as Roy Mitchell",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/jesse-plemons-21949-24-03-2017-15-57-49.jpg"
+    },
+    {
+     "original_name": "Ashton Sanders",
+     "character": "as Larry Robertson",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/ashton-sanders-1044632-24-03-2017-16-10-15.jpg"
+    },
+    {
+     "original_name": "Martin Sheen",
+     "character": "as J. Edgar Hoover",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/martin-sheen-1405-24-03-2017-12-36-01.jpg"
+    },
+    {
+     "original_name": "Lil Rel Howery",
+     "character": "Actor",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/lil-rel-howery-1093657-27-06-2018-11-48-31.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "name": "Shaka King",
+     "crew_position": "Director, Producer, Screenplay",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/shaka-king-2009753-03-03-2021-04-33-16.jpg"
+    },
+    {
+     "name": "Mark Isham",
+     "crew_position": "Musician",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/mark-isham-1067700-08-06-2017-18-16-04.jpg"
+    },
+    {
+     "name": "Sean Bobbitt",
+     "crew_position": "Cinematographer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/sean-bobbitt-iein073444-08-06-2017-13-54-56.jpg"
+    }
+   ]
+  },
+  {
+   "movie_name": "Monster Hunter",
+   "movie_grade": "13+",
+   "languages": "English, Hindi, Tamil, Telugu",
+   "banner_image_url": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@heart_202006300400.png,ox-24,oy-617,ow-29:ote-NzMlICA3ayB2b3Rlcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-70/et00301892-ezljlykahh-portrait.jpg",
+   "cover_image_url":"https://in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/monster-hunter-et00301892-05-03-2021-04-07-12.jpg",
+   "rating":{"percentage":73,
+    "no_of_ratings": 7.5},
+   "movie_duration":"1h 41m",
+   "release_date":"05 Feb, 2021",
+   "is_premier":false,
+   "movie_genre": [
+    {
+     "genre": "Action"
+    },
+    {
+     "genre": "Adventure"
+    },
+    {
+     "genre": "Fantasy"
+    }
+   ],
+   "about_movie": "When Lt. Artemis and her loyal soldiers are transported to a new world, they engage in a desperate battle for survival against enormous enemies with incredible powers.",
+   "cast": [
+    {
+     "original_name": "Milla Jovovich",
+     "character": "as Artemis",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/milla-jovovich-2767-24-03-2017-12-44-33.jpg"
+    },
+    {
+     "original_name": "Tony Jaa",
+     "character": "as The Hunter",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/tony-jaa-7530-24-03-2017-15-48-44.jpg"
+    },
+    {
+     "original_name": "T.I.",
+     "character": "as Link",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/t.i.-1061190-24-03-2017-12-45-03.jpg"
+    },
+    {
+     "original_name": "Meagan Good",
+     "character": "as Dash",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/meagan-good-1429-01-04-2019-12-05-19.jpg"
+    },
+    {
+     "original_name": "Diego Boneta",
+     "character": "as Marshall",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/diego-boneta-28259-24-03-2017-16-00-37.jpg"
+    },
+    {
+     "original_name": "Josh Helman",
+     "character": "as Steeler",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/josh-helman-1060662-24-03-2017-16-20-40.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "name": "Paul W.S. Anderson",
+     "crew_position": "Director, Producer, Writer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/paul-w.s.-anderson-2766-24-03-2017-12-39-27.jpg"
+    },
+    {
+     "name": "Jeremy Bolt",
+     "crew_position": "Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/jeremy-bolt-iein073726-31-12-2020-17-13-06.jpg"
+    },
+    {
+     "name": "Ken Kamins",
+     "crew_position": "Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/ken-kamins-iein072097-19-01-2021-16-45-29.jpg"
+    },
+    {
+     "name": "Paul Haslinger",
+     "crew_position": "Musician",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/paul-haslinger-iein004009-24-03-2017-12-52-39.jpg"
+    },
+    {
+     "name": "Glen Macpherson",
+     "crew_position": "Cinematographer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/glen-macpherson-iein073731-02-02-2021-10-07-03.jpg"
+    }
+   ]
+  },
+  {
+   "movie_name": "Tuesdays & Fridays",
+   "movie_grade": "UA",
+   "languages": "Hindi",
+   "banner_image_url": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@heart_202006300400.png,ox-24,oy-617,ow-29:ote-NjUlICA0MzQgdm90ZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70/et00301898-vjazneexqj-portrait.jpg",
+   "cover_image_url":"https://in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/tuesdays-and-fridays-et00301898-05-02-2021-06-11-57.jpg",
+   "rating":{"percentage":65,
+    "no_of_ratings": 43},
+   "movie_duration":"1h 47m",
+   "release_date":"19 Feb, 2021",
+   "is_premier":false,
+   "movie_genre": [
+    {
+     "genre": "Comedy"
+    },
+    {
+     "genre": "Musical"
+    },
+    {
+     "genre": "Romantic"
+    }
+   ],
+   "about_movie": "Tuesdays & Fridays is a Hindi movie starring Anmol Dhillon, Zoa Morani and Niki Walia in prominent roles. It is a drama directed by Taranveer Singh with Ankit Balhara and Sanchit Balhara as musician, forming part of the crew.\nIf you are a representative of the production house, please share the details of the film with synopsis@bookmyshow.com",
+   "cast": [
+    {
+     "original_name": "Anmol Dhillon",
+     "character": "Actor",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/anmol-dhillon-1095474-17-02-2021-01-10-25.jpg"
+    },
+    {
+     "original_name": "Jhataleka Malhotra",
+     "character": "Actor",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/jhataleka-malhotra-2011575-05-02-2021-04-18-37.jpg"
+    },
+    {
+     "original_name": "Zoa Morani",
+     "character": "as Kajal",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/zoa-morani-23483-24-03-2017-17-41-29.jpg"
+    },
+    {
+     "original_name": "Niki Walia",
+     "character": "Actor",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/niki-walia-iein088768-24-03-2017-17-00-28.jpg"
+    },
+    {
+     "original_name": "Kamini Khanna",
+     "character": "Actor",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/kamini-khanna-1138-13-10-2020-03-09-39.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "name": "Taranveer Singh",
+     "crew_position": "Director, Writer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/taranveer-singh-2010724-17-02-2021-01-13-15.jpg"
+    },
+    {
+     "name": "Sanjay Leela Bhansali",
+     "crew_position": "Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/sanjay-leela-bhansali-2816-26-09-2017-04-51-38.jpg"
+    },
+    {
+     "name": "Bhushan Kumar",
+     "crew_position": "Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/bhushan-kumar-1075903-11-11-2016-05-08-19.jpg"
+    },
+    {
+     "name": "Ankit Balhara",
+     "crew_position": "Musician",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/ankit-balhara-2006807-20-01-2020-01-07-41.jpg"
+    },
+    {
+     "name": "Sanchit Balhara",
+     "crew_position": "Musician",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/sanchit-balhara-1062669-24-03-2017-16-22-29.jpg"
+    },
+    {
+     "name": "Ewan Mulligan",
+     "crew_position": "Cinematographer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/ewan-mulligan-1075906-24-03-2017-13-42-20.jpg"
+    }
+   ]
+  },
+  {
+   "movie_name": "Vijay The Master",
+   "movie_grade": "UA",
+   "languages": "Hindi",
+   "banner_image_url": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@heart_202006300400.png,ox-24,oy-617,ow-29:ote-ODglICA4ayB2b3Rlcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-70/et00303436-slfgmkqnwn-portrait.jpg",
+   "cover_image_url":"https://in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/vijay-the-master-et00303436-07-01-2021-05-40-30.jpg",
+   "rating":{"percentage":88,
+    "no_of_ratings": 9},
+   "movie_duration":"2h 58m",
+   "release_date":"14 Jan, 2021",
+   "is_premier":false,
+   "movie_genre": [
+    {
+     "genre": "Action"
+    },
+    {
+     "genre": "Thriller"
+    }
+   ],
+   "about_movie": "Vijay The Master revolves around an alcoholic professor who is sent to a juvenile school, where he clashes with a gangster, who uses the children of the school for criminal activities.",
+   "cast": [
+    {
+     "original_name": "Vijay",
+     "character": "as JD",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/vijay-2461-20-12-2017-04-37-08.jpg"
+    },
+    {
+     "original_name": "Vijay Sethupathi",
+     "character": "as Bhavani",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/vijay-sethupathi-32355-16-09-2017-03-30-38.jpg"
+    },
+    {
+     "original_name": "Andrea Jeremiah",
+     "character": "Actor",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/andrea-jeremiah-15804-03-04-2017-16-49-23.jpg"
+    },
+    {
+     "original_name": "Shanthanu Bhagyaraj",
+     "character": "as Bhargav",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/shanthanu-bhagyaraj-37502-24-03-2017-17-49-34.jpg"
+    },
+    {
+     "original_name": "Malavika Mohanan",
+     "character": "Actor",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/malavika-mohanan-40293-10-04-2018-03-48-22.jpg"
+    },
+    {
+     "original_name": "Nassar",
+     "character": "Actor",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/nassar-8386-24-03-2017-18-02-06.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "name": "Lokesh Kanagaraj",
+     "crew_position": "Director, Writer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/lokesh-kanakaraj-1065304-24-03-2017-16-24-31.jpg"
+    },
+    {
+     "name": "Rathna Kumar",
+     "crew_position": "Writer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/rathna-kumar-1047549-16-10-2017-01-47-33.jpg"
+    },
+    {
+     "name": "Anirudh Ravichander",
+     "crew_position": "Musician",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/anirudh-ravichander-34897-24-03-2017-13-54-49.jpg"
+    },
+    {
+     "name": "Yuvan Shankar Raja",
+     "crew_position": "Singer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/yuvan-shankar-raja-2551-24-03-2017-12-31-18.jpg"
+    },
+    {
+     "name": "Santhosh Narayanan",
+     "crew_position": "Singer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/santhosh-narayanan-1068255-24-03-2017-17-19-51.jpg"
+    }
+   ]
+  },
+  {
+   "movie_name": "Raya and the Last Dragon",
+   "movie_grade": "U",
+   "languages": "English, Hindi",
+   "banner_image_url": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@heart_202006300400.png,ox-24,oy-617,ow-29:ote-ODAlICAxMzggdm90ZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70/et00145984-ztwedklvue-portrait.jpg",
+   "cover_image_url":"https://in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/raya-and-the-last-dragon-et00145984-02-03-2021-02-45-26.jpg",
+   "rating":{"percentage":80,
+    "no_of_ratings": 13},
+   "movie_duration":"1h 54m",
+   "release_date":"05 Mar, 2021",
+   "is_premier":false,
+   "movie_genre": [
+    {
+     "genre": "Action"
+    },
+    {
+     "genre": "Adventure"
+    },
+    {
+     "genre": "Animation"
+    },
+    {
+     "genre": "Fantasy"
+    }
+   ],
+   "about_movie": "Raya, a lone warrior from the fantasy kingdom of Kumandra, teams up with a crew of misfits in her quest to find the Last Dragon, in order to bring light and unity back to their world.",
+   "cast": [
+    {
+     "original_name": "Kelly Marie Tran",
+     "character": "as Raya",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/kelly-marie-tran-2012082-02-03-2021-09-54-32.jpg"
+    },
+    {
+     "original_name": "Awkwafina",
+     "character": "as Sisu",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/awkwafina-1093500-20-06-2018-12-05-44.jpg"
+    },
+    {
+     "original_name": "Gemma Chan",
+     "character": "as Namaari",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/gemma-chan-19359-24-03-2017-15-57-05.jpg"
+    },
+    {
+     "original_name": "Alan Tudyk",
+     "character": "as Tuk Tuk",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/alan-tudyk-4771-24-03-2017-15-46-48.jpg"
+    },
+    {
+     "original_name": "Sandra Oh",
+     "character": "as Virana",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/sandra-oh-22603-07-09-2017-17-59-46.jpg"
+    },
+    {
+     "original_name": "Daniel Dae Kim",
+     "character": "as Benja",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/daniel-dae-kim-iein000812-24-03-2017-12-35-05.jpg"
+    },
+    {
+     "original_name": "Benedict Wong",
+     "character": "as Tong",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/benedict-wong-300-05-04-2019-02-57-20.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "name": "Don Hall",
+     "crew_position": "Director, Writer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/don-hall-5704-24-03-2017-15-47-12.jpg"
+    },
+    {
+     "name": "Peter Del Vecho",
+     "crew_position": "Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/peter-del-vecho-iein074329-11-06-2019-18-04-33.jpg"
+    },
+    {
+     "name": "Osnat Shurer",
+     "crew_position": "Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/osnat-shurer-2012083-02-03-2021-10-00-39.jpg"
+    },
+    {
+     "name": "Paul Briggs",
+     "crew_position": "Writer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/paul-briggs-2006161-02-03-2021-10-12-58.jpg"
+    },
+    {
+     "name": "James Newton Howard",
+     "crew_position": "Musician",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/james-newton-howard-915-24-03-2017-12-33-25.jpg"
+    },
+    {
+     "name": "Qui Nguyen",
+     "crew_position": "Screenplay",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/qui-nguyen-2012084-02-03-2021-10-06-43.jpg"
+    }
+   ]
+  },
+  {
+   "movie_name": "Tenet",
+   "movie_grade": "UA",
+   "languages": "English, Hindi, Tamil, Telugu",
+   "banner_image_url": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@heart_202006300400.png,ox-24,oy-617,ow-29:ote-ODAlICAzMWsgdm90ZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70/et00121315-sqsgrytdpp-portrait.jpg",
+   "cover_image_url":"https://in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/tenet-et00121315-01-02-2021-11-11-05.jpg",
+   "rating":{"percentage":70,
+    "no_of_ratings": 7.5},
+   "movie_duration":"2h 31m",
+   "release_date":"04 Dec, 2020",
+   "is_premier":true,
+   "screen_type": [
+    {
+     "type": "2D"
+    },
+    {
+     "type": "4DX"
+    },
+    {
+     "type": "IMAX 2D"
+    },
+    {
+     "type": "MX4D"
+    }
+   ],
+   "movie_genre": [
+    {
+     "genre": "Action"
+    },
+    {
+     "genre": "Thriller"
+    }
+   ],
+   "about_movie": "Fighting for the survival of the world, the Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real-time.",
+   "cast": [
+    {
+     "original_name": "John David Washington",
+     "character": "as Protagonist",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/john-david-washington-2009932-06-10-2020-03-19-09.jpg"
+    },
+    {
+     "original_name": "Robert Pattinson",
+     "character": "as Neil",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/robert-pattinson-14953-24-03-2017-13-55-41.jpg"
+    },
+    {
+     "original_name": "Elizabeth Debicki",
+     "character": "as Kat",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/elizabeth-debicki-1053412-05-04-2018-02-39-14.jpg"
+    },
+    {
+     "original_name": "Dimple Kapadia",
+     "character": "as Priya",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/dimple-kapadia-595-19-09-2017-05-14-09.jpg"
+    },
+    {
+     "original_name": "Kenneth Branagh",
+     "character": "as Sator",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/kenneth-branagh-10442-24-03-2017-12-33-43.jpg"
+    },
+    {
+     "original_name": "Jefferson Hall",
+     "character": "as Well-Dressed Man",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/jefferson-hall-1083809-22-06-2017-11-47-11.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "name": "Christopher Nolan",
+     "crew_position": "Director, Producer, Writer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/christopher-nolan-448-12-09-2017-06-17-25.jpg"
+    },
+    {
+     "name": "Emma Thomas",
+     "crew_position": "Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/emma-thomas-iein096114-13-07-2017-12-52-40.jpg"
+    },
+    {
+     "name": "Ludwig Goransson",
+     "crew_position": "Musician",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/ludwig-goransson-1061733-24-03-2017-13-20-15.jpg"
+    },
+    {
+     "name": "Hoyte van Hoytema",
+     "crew_position": "Cinematographer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/hoyte-van-hoytema-iein103023-13-07-2017-12-51-32.jpg"
+    },
+    {
+     "name": "Jennifer Lame",
+     "crew_position": "Editor",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/jennifer-lame-iein080813-20-06-2018-12-42-18.jpg"
+    }
+   ]
+  },
+  {
+   "movie_name": "A1 Express",
+   "movie_grade": "U",
+   "languages": "Telugu",
+   "banner_image_url": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@heart_202006300400.png,ox-24,oy-617,ow-29:ote-NzglICAxMWsgdm90ZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70/et00113853-zpkllhrble-portrait.jpg",
+   "cover_image_url":"https://in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/a1-express-et00113853-02-03-2021-12-47-31.jpg",
+   "rating":{"percentage":78,
+    "no_of_ratings": 11.1},
+   "movie_duration":"2h 18m",
+   "release_date":"05 Mar, 2021",
+   "is_premier":false,
+   "movie_genre": [
+    {
+     "genre": "Action"
+    },
+    {
+     "genre": "Drama"
+    },
+    {
+     "genre": "Sports"
+    }
+   ],
+   "about_movie": "A1 Express is a Telugu movie starring Sundeep Kishan in a prominent role. It is a drama directed by Dennis Jeevan Kanukolanu.\nIf you are a representative of the produ.ction house, please share the details of the film with synopsis@bookmyshow.com",
+   "cast": [
+    {
+     "original_name": "Sundeep Kishan",
+     "character": "as Sundeep Naidu",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/sundeep-kishan-35229-18-09-2017-02-43-20.jpg"
+    },
+    {
+     "original_name": "Lavanya Tripathi",
+     "character": "as Lavanya Rao",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/lavanya-tripathi-30846-24-03-2017-14-05-33.jpg"
+    },
+    {
+     "original_name": "Rao Ramesh",
+     "character": "as Rao Ramesh",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/rao-ramesh-8665-04-03-2021-03-32-52.jpg"
+    },
+    {
+     "original_name": "Murli Sharma",
+     "character": "as Murali Sharma",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/murli-sharma-1530-24-03-2017-18-02-07.jpg"
+    },
+    {
+     "original_name": "Sathya",
+     "character": "as Satya",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/sathya-9723-07-11-2017-09-19-10.jpg"
+    },
+    {
+     "original_name": "Rahul Ramakrishna",
+     "character": "as Rahul",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/rahul-ramakrishna-1262282-28-11-2018-01-38-39.jpg"
+    },
+    {
+     "original_name": "Priyadarshi",
+     "character": "as Darshi",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/priyadarshi-2002370-16-09-2019-03-38-45.jpg"
+    },
+    {
+     "original_name": "Abhijith Poondla",
+     "character": "as Asif",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/abhijith-poondla-1069277-02-03-2021-01-46-05.jpg"
+    },
+    {
+     "original_name": "Posani Krishna Murali",
+     "character": "as Posani",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/posani-krishna-murali-9722-24-03-2017-17-41-52.jpg"
+    },
+    {
+     "original_name": "Mahesh Vitta",
+     "character": "as Mahesh Vitta",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/mahesh-vitta-1263834-27-12-2018-01-50-47.jpg"
+    },
+    {
+     "original_name": "Raghu Babu",
+     "character": "as Raghu",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/raghu-babu-14412-24-03-2017-13-59-14.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "name": "Dennis Jeevan Kanukolanu",
+     "crew_position": "Director",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/dennis-jeevan-kanukolanu-2003207-02-03-2021-01-49-39.jpg"
+    },
+    {
+     "name": "Abhishek Agarwal",
+     "crew_position": "Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/abhishek-agarwal-1080284-02-03-2021-01-59-13.jpg"
+    },
+    {
+     "name": "Sundeep Kishan",
+     "crew_position": "Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/sundeep-kishan-35229-18-09-2017-02-43-20.jpg"
+    },
+    {
+     "name": "TG Vishwa Prasad",
+     "crew_position": "Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/tg-vishwa-prasad-2007132-27-01-2020-03-35-13.jpg"
+    },
+    {
+     "name": "Hiphop Tamizha",
+     "crew_position": "Musician",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/hiphop-tamizha-1052148-05-04-2019-11-57-48.jpg"
+    },
+    {
+     "name": "Chota K. Prasad",
+     "crew_position": "Editor",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/hiphop-tamizha-1052148-05-04-2019-11-57-48.jpg"
+    }
+   ]
+  },
+  {
+   "movie_name": "The Vigil",
+   "movie_grade": "UA",
+   "languages": "English",
+   "banner_image_url": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@heart_202006300400.png,ox-24,oy-617,ow-29:ote-NDYlICAyNzAgdm90ZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70/et00305794-yendvqlhqs-portrait.jpg",
+   "cover_image_url":"https://in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/the-vigil-et00305794-03-02-2021-04-46-05.jpg",
+   "rating":{"percentage":45,
+    "no_of_ratings": 26},
+   "movie_duration":"1h 32m",
+   "release_date":"26 Feb, 2021",
+   "is_premier":false,
+   "movie_genre": [
+    {
+     "genre": "Horror"
+    },
+    {
+     "genre": "Thriller"
+    }
+   ],
+   "about_movie": "A despondent young man reluctantly agrees to assume responsibility for an overnight shimmer and fulfill the Jewish practice of watching over the body of a deceased member of the Orthodox community. Until his vigil gradually transforms into a harrowing spiritual investigation of both his cursed surroundings and his pitiable past.",
+   "cast": [
+    {
+     "original_name": "Dave Davis",
+     "character": "as Yakov Ronen",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/dave-davis-2011554-24-02-2021-03-51-54.jpg"
+    },
+    {
+     "original_name": "Menashe Lustig",
+     "character": "as Reb Shulem",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/menashe-lustig-2011555-24-02-2021-03-53-13.jpg"
+    },
+    {
+     "original_name": "Malky Goldman",
+     "character": "as Sarah",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/malky-goldman-2011556-24-02-2021-03-54-20.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "name": "Keith Thomas",
+     "crew_position": "Director, Writer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/keith-thomas-iein109631-24-02-2021-15-56-21.jpg"
+    },
+    {
+     "name": "Michael Yezerski",
+     "crew_position": "Musician",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/michael-yezerski-2011557-24-02-2021-03-57-48.jpg"
+    }
+   ]
+  },
+  {
+   "movie_name": "Ramprasad Ki Tehrvi",
+   "movie_grade": "UA",
+   "languages": "Hindi",
+   "banner_image_url": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@heart_202006300400.png,ox-24,oy-617,ow-29:ote-NzYlICA2ayB2b3Rlcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-70/et00117699-jmxqxylwav-portrait.jpg",
+   "cover_image_url":"https://in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/ramprasad-ki-tehrvi-et00117699-28-12-2020-11-41-57.jpg",
+   "rating":{"percentage":76,
+    "no_of_ratings": 6.4},
+   "movie_duration":"1h 55m",
+   "release_date":"01 Jan, 2021",
+   "is_premier":false,
+   "movie_genre": [
+    {
+     "genre": "Comedy"
+    },
+    {
+     "genre": "Drama"
+    },
+    {
+     "genre": "Family"
+    }
+   ],
+   "about_movie": "After Ramprasad's death, his family is forced to live together for 13 days until the Tehrvi is performed. Amidst all the drama they must come to terms with some crucial truths about life.",
+   "cast": [
+    {
+     "original_name": "Naseeruddin Shah",
+     "character": "as Ramprasad",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/naseeruddin-shah-1554-24-03-2017-12-31-15.jpg"
+    },
+    {
+     "original_name": "Vinay Pathak",
+     "character": "as Pankaj",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/vinay-pathak-2483-24-03-2017-12-33-12.jpg"
+    },
+    {
+     "original_name": "Konkona Sen Sharma",
+     "character": "as Seema",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/konkona-sen-sharma-1224-24-03-2017-17-59-38.jpg"
+    },
+    {
+     "original_name": "Supriya Pathak Kapur",
+     "character": "as Amma",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/supriya-pathak-2300-21-12-2017-11-51-19.jpg"
+    },
+    {
+     "original_name": "Manoj Pahwa",
+     "character": "as Gajraj",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/manoj-pahwa-1366-24-03-2017-12-41-27.jpg"
+    },
+    {
+     "original_name": "Vikrant Massey",
+     "character": "as Rahul",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/vikrant-massey-34299-24-03-2017-13-57-50.jpg"
+    },
+    {
+     "original_name": "Ninad Kamat",
+     "character": "as Manoj",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/ninad-kamat-13556-24-03-2017-14-13-30.jpg"
+    },
+    {
+     "original_name": "Sadiya Siddiqui",
+     "character": "as Pratibha",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/sadiya-siddiqui-1081417-17-08-2017-11-24-37.jpg"
+    },
+    {
+     "original_name": "Divya Jagdale",
+     "character": "as Sulekha",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/divya-jagdale-4208-27-03-2017-05-13-26.jpg"
+    },
+    {
+     "original_name": "Deepika Amin",
+     "character": "as Sushma",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/deepika-amin-15908-06-12-2018-04-59-39.jpg"
+    },
+    {
+     "original_name": "Parambrata Chatterjee",
+     "character": "as Nishant",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/parambrata-chatterjee-1641-24-03-2017-13-47-35.jpg"
+    },
+    {
+     "original_name": "Vineet Kumar",
+     "character": "as Mama Ji",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/vineet-kumar-2487-24-03-2017-12-42-59.jpg"
+    },
+    {
+     "original_name": "Brijendra Kala",
+     "character": "as Prakash",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/brijendra-kala-2812-24-03-2017-17-55-00.jpg"
+    },
+    {
+     "original_name": "Rajendra Gupta",
+     "character": "as Tauji",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/rajendra-gupta-7930-05-03-2018-03-54-14.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "name": "Seema Pahwa",
+     "crew_position": "Director",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/seema-pahwa-13127-24-03-2017-15-53-03.jpg"
+    },
+    {
+     "name": "Manish Mundra",
+     "crew_position": "Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/manish-mundra-iein021520-24-03-2017-17-59-12.jpg"
+    },
+    {
+     "name": "Sagar Desai",
+     "crew_position": "Musician",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/sagar-desai-5088-04-03-2017-01-30-21.jpg"
+    },
+    {
+     "name": "Sudip Sengupta",
+     "crew_position": "Cinematographer",
+     "crew_image": ""
+    }
+   ]
+  },
+  {
+   "movie_name": "Hero",
+   "movie_grade": "A",
+   "languages": "Kannada",
+   "banner_image_url": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@heart_202006300400.png,ox-24,oy-617,ow-29:ote-NzYlICAxayB2b3Rlcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-70/et00306303-saavttwkwm-portrait.jpg",
+   "cover_image_url":"https://in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/hero-et00306303-01-03-2021-12-40-15.jpg",
+   "rating":{"percentage":76,
+    "no_of_ratings": 1.9},
+   "movie_duration":"2h 04m",
+   "release_date":"05 Mar, 2021",
+   "is_premier":false,
+   "movie_genre": [
+    {
+     "genre": "Action"
+    },
+    {
+     "genre": "Comedy"
+    }
+   ],
+   "about_movie": "Hero, a hopeless man who works in a hair salon goes to give a haircut. However, he soon realizes that he has entered a deadly forest owned by a gangster. What ensues is a series of his misadventures in an attempt to escape.",
+   "cast": [
+    {
+     "original_name": "Ugramm Manju",
+     "character": "Actor",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/ugramm-manju-1074244-19-07-2017-15-46-18.jpg"
+    },
+    {
+     "original_name": "Rishab Shetty",
+     "character": "Actor",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/rishab-shetty-1064313-15-08-2018-04-55-18.jpg"
+    },
+    {
+     "original_name": "Pramod Shetty",
+     "character": "Actor",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/pramod-shetty-34813-24-03-2017-16-04-20.jpg"
+    },
+    {
+     "original_name": "Ganavi Laxman",
+     "character": "Actor",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/ganavi-laxman-2011862-17-02-2021-12-14-45.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "name": "M. Bharath Raj",
+     "crew_position": "Director",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/m-bharath-raj-2011673-15-02-2021-01-52-52.jpg"
+    },
+    {
+     "name": "Rishab Shetty",
+     "crew_position": "Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/rishab-shetty-1064313-15-08-2018-04-55-18.jpg"
+    },
+    {
+     "name": "B. Ajaneesh Loknath",
+     "crew_position": "Musician",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/b.-ajaneesh-loknath-1044651-24-03-2017-16-10-16.jpg"
+    },
+    {
+     "name": "Vijay Prakash",
+     "crew_position": "Singer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/vijay-prakash-22632-24-03-2017-17-34-50.jpg"
+    },
+    {
+     "name": "Vasuki Vaibhav",
+     "crew_position": "Singer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/vasuki-vaibhav-1056054-26-04-2018-03-40-25.jpg"
+    },
+    {
+     "name": "Jayanth Kaikini",
+     "crew_position": "Lyricist",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/jayanth-kaikini-28779-15-01-2021-12-21-13.jpg"
+    },
+    {
+     "name": "Yograj Bhat",
+     "crew_position": "Lyricist",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/yograj-bhat-2011961-22-02-2021-07-13-34.jpg"
+    },
+    {
+     "name": "Arvind Kashyap",
+     "crew_position": "Cinematographer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/arvind-kashyap-1086878-16-10-2017-05-36-32.jpg"
+    },
+    {
+     "name": "Pratheek Shetty",
+     "crew_position": "Editor",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/pratheek-sheety-1262385-17-11-2020-04-17-14.jpg"
+    }
+   ]
+  },
+  {
+   "movie_name": "Check",
+   "movie_grade": "UA",
+   "languages": "Telugu",
+   "banner_image_url": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@heart_202006300400.png,ox-24,oy-617,ow-29:ote-NjMlICAyMGsgdm90ZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70/et00305212-dczlhpukzn-portrait.jpg",
+   "cover_image_url":"https://in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/check-et00305212-09-02-2021-10-22-35.jpg",
+   "rating":{"percentage":63,
+    "no_of_ratings": 20.4},
+   "movie_duration":"2h 20m",
+   "release_date":"26 Feb, 2021",
+   "is_premier":false,
+   "movie_genre": [
+    {
+     "genre": "Action"
+    },
+    {
+     "genre": "Thriller"
+    }
+   ],
+   "about_movie": "Check is a Telugu movie starring Nithiin, Rakul Preet Singh and Priya Prakash Varrier in prominent roles. It is a drama directed by Chandra Sekhar Yeleti with V. Anand Prasad as producer, forming part of the crew.\nIf you are a representative of the production house, please share the details of the film with synopsis@bookmyshow.com",
+   "cast": [
+    {
+     "original_name": "Nithiin",
+     "character": "as Aditya",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/nithiin-kumar-reddy-2916-24-03-2017-17-46-20.jpg"
+    },
+    {
+     "original_name": "Rakul Preet Singh",
+     "character": "Actor",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/rakul-preet-singh-25717-07-10-2016-01-01-08.jpg"
+    },
+    {
+     "original_name": "Priya Prakash Varrier",
+     "character": "Actor",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/priya-prakash-varrier-1090347-12-02-2018-04-33-40.jpg"
+    },
+    {
+     "original_name": "Sampath Raj",
+     "character": "Actor",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/sampath-raj-15429-24-03-2017-17-54-51.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "name": "Chandra Sekhar Yeleti",
+     "crew_position": "Director",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/chandra-sekhar-yeleti-12319-24-03-2017-13-49-37.jpg"
+    },
+    {
+     "name": "V. Anand Prasad",
+     "crew_position": "Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/v.-anand-prasad-iein020861-23-06-2017-15-46-17.jpg"
+    },
+    {
+     "name": "Kalyani Malik",
+     "crew_position": "Musician",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/kalyani-malik-1134-24-03-2017-13-01-19.jpg"
+    },
+    {
+     "name": "Sanal Anirudhan",
+     "crew_position": "Editor",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/sanal-anirudhan-iein084585-15-06-2017-11-12-10.jpg"
+    }
+   ]
+  },
+  {
+   "movie_name": "Indoo Ki Jawani",
+   "movie_grade": "UA",
+   "languages": "Hindi",
+   "banner_image_url": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@heart_202006300400.png,ox-24,oy-617,ow-29:ote-NTglICAyayB2b3Rlcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-70/et00122137-yeyzbsgpyk-portrait.jpg",
+   "cover_image_url":"https://in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/indoo-ki-jawani-et00122137-23-11-2020-06-52-31.jpg",
+   "rating":{"percentage":58,
+    "no_of_ratings": 2.3},
+   "movie_duration":"1h 59m",
+   "release_date":"11 Dec, 2020",
+   "is_premier":false,
+   "movie_genre": [
+    {
+     "genre": "Comedy"
+    },
+    {
+     "genre": "Drama"
+    }
+   ],
+   "about_movie": "This comedy-drama revolves around Indoo, a young, spirited girl from Ghaziabad who experiments with dating apps and often ends up in comical situations.",
+   "cast": [
+    {
+     "original_name": "Kiara Advani",
+     "character": "Actor",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/kiara-advani-1043272-18-12-2019-12-53-39.jpg"
+    },
+    {
+     "original_name": "Aditya Seal",
+     "character": "Actor",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/aditya-seal-72-11-11-2016-05-05-33.jpg"
+    },
+    {
+     "original_name": "Mallika Dua",
+     "character": "Actor",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/mallika-dua-1077103-29-12-2016-11-51-36.jpg"
+    },
+    {
+     "original_name": "Rajesh Jais",
+     "character": "Actor",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/rajesh-jais-iein028462-10-04-2017-12-31-04.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "name": "Abir Sengupta",
+     "crew_position": "Director, Writer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/abir-sengupta-1058619-31-08-2017-12-52-59.jpg"
+    },
+    {
+     "name": "Monisha Advani",
+     "crew_position": "Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/monisha-advani-iein108880-27-05-2019-14-23-44.jpg"
+    },
+    {
+     "name": "Nikkhil Advani",
+     "crew_position": "Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/nikkhil-advani-1599-24-03-2017-12-39-34.jpg"
+    },
+    {
+     "name": "Madhu Bhojwani",
+     "crew_position": "Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/madhu-bhojwani-iein046411-24-03-2017-14-57-22.jpg"
+    },
+    {
+     "name": "Niranjan Iyengar",
+     "crew_position": "Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/niranjan-iyengar-30473-24-03-2017-15-41-35.jpg"
+    },
+    {
+     "name": "Divya Khosla Kumar",
+     "crew_position": "Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/divya-khosla-kumar-35264-24-03-2017-12-48-40.jpg"
+    },
+    {
+     "name": "Krishan Kumar",
+     "crew_position": "Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/krishan-kumar-iein019780-24-03-2017-17-35-37.jpg"
+    },
+    {
+     "name": "Badshah",
+     "crew_position": "Musician",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/badshah-1049327-24-03-2017-14-30-41.jpg"
+    },
+    {
+     "name": "Millind Gaba",
+     "crew_position": "Musician",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/millind-gaba-1068119-24-03-2017-13-15-21.jpg"
+    },
+    {
+     "name": "Rochak Kohli",
+     "crew_position": "Musician",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/rochak-kohli-38646-24-03-2017-12-55-38.jpg"
+    },
+    {
+     "name": "Mika Singh",
+     "crew_position": "Musician",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/mika-singh-15181-24-03-2017-17-31-54.jpg"
+    },
+    {
+     "name": "A Vasanth",
+     "crew_position": "Cinematographer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/a-vasanth-iein090622-07-12-2020-17-21-58.jpg"
+    },
+    {
+     "name": "Ajay Sharma",
+     "crew_position": "Editor",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/mr-ajay-sharma-1092018-16-04-2018-11-47-40.jpg"
+    }
+   ]
+  },
+  {
+   "movie_name": "Madam Chief Minister",
+   "movie_grade": "UA",
+   "languages": "Hindi",
+   "banner_image_url": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@heart_202006300400.png,ox-24,oy-617,ow-29:ote-NzAlICA4Nzggdm90ZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70/et00126626-zhdugavsrs-portrait.jpg",
+   "cover_image_url":"https://in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/madam-chief-minister-et00126626-05-01-2021-05-42-04.jpg",
+   "rating":{"percentage":70,
+    "no_of_ratings": 87},
+   "movie_duration":"2h 04m",
+   "release_date":"22 Jan, 2021",
+   "is_premier":false,
+   "movie_genre": [
+    {
+     "genre": "Drama"
+    },
+    {
+     "genre": "Political"
+    }
+   ],
+   "about_movie": "Tara, one feisty oddball fights patriarchy, caste oppression, brutal violence along with the usual betrayals of politics, to rise to the top with her head held high and affect change.",
+   "cast": [
+    {
+     "original_name": "Richa Chadha",
+     "character": "Actor",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/richa-chadda-19375-20-12-2017-03-25-50.jpg"
+    },
+    {
+     "original_name": "Akshay Oberoi",
+     "character": "Actor",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/akshay-oberoi-20546-24-03-2017-17-35-11.jpg"
+    },
+    {
+     "original_name": "Manav Kaul",
+     "character": "Actor",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/manav-kaul-1345-03-11-2017-02-59-06.jpg"
+    },
+    {
+     "original_name": "Saurabh Shukla",
+     "character": "Actor",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/saurabh-shukla-2063-24-03-2017-12-31-30.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "name": "Subhash Kapoor",
+     "crew_position": "Director, Writer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/subhash-kapoor-2258-24-03-2017-14-24-26.jpg"
+    },
+    {
+     "name": "Bhushan Kumar",
+     "crew_position": "Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/bhushan-kumar-1075903-11-11-2016-05-08-19.jpg"
+    },
+    {
+     "name": "Krishan Kumar",
+     "crew_position": "Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/krishan-kumar-iein019780-24-03-2017-17-35-37.jpg"
+    },
+    {
+     "name": "Naren Kumar",
+     "crew_position": "Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/naren-kumar-iein010235-24-03-2017-14-38-28.jpg"
+    },
+    {
+     "name": "Mangesh Dhakde",
+     "crew_position": "Musician",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/mangesh-dhakde-1045393-24-07-2017-15-10-09.jpg"
+    },
+    {
+     "name": "Jayesh Nair",
+     "crew_position": "Cinematographer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/jayesh-nair-iein082599-31-07-2017-13-34-17.jpg"
+    }
+   ]
+  },
+  {
+   "movie_name": "Nenjam Marappathillai",
+   "movie_grade": "UA",
+   "languages": "Tamil",
+   "banner_image_url": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@heart_202006300400.png,ox-24,oy-617,ow-29:ote-NzAlICAzayB2b3Rlcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-70/et00043136-wqvbzhdpey-portrait.jpg",
+   "cover_image_url":"https://in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/nenjam-marappathillai-et00043136-17-04-2017-17-57-55.jpg",
+   "rating":{"percentage":70,
+    "no_of_ratings": 3.2},
+   "movie_duration":"2h 30m",
+   "release_date":"05 Mar, 2021",
+   "is_premier":false,
+   "movie_genre": [
+    {
+     "genre": "Horror"
+    },
+    {
+     "genre": "Thriller"
+    }
+   ],
+   "about_movie": "A godly woman who takes up the job of a caretaker in a rich family decides to take revenge on her lustful employer.",
+   "cast": [
+    {
+     "original_name": "S. J. Suryah",
+     "character": "Actor",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/s.-j.-suryah-13129-24-03-2017-15-53-00.jpg"
+    },
+    {
+     "original_name": "Regina Cassandra",
+     "character": "Actor",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/regina-cassandra-15870-19-09-2017-10-06-31.jpg"
+    },
+    {
+     "original_name": "Nandita Swetha",
+     "character": "Actor",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/nandita-swetha-1057079-24-03-2017-17-35-08.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "name": "K. Selvaraghavan",
+     "crew_position": "Director, Writer, Screenplay",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/k.-selvaraghavan-8079-19-04-2017-13-59-16.jpg"
+    },
+    {
+     "name": "Gautham Menon",
+     "crew_position": "Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/gautham-menon-2889-24-03-2017-17-31-56.jpg"
+    },
+    {
+     "name": "Yuvan Shankar Raja",
+     "crew_position": "Musician",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/yuvan-shankar-raja-2551-24-03-2017-12-31-18.jpg"
+    },
+    {
+     "name": "Arvind Krishna",
+     "crew_position": "Cinematographer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/arvind-krishna-20411-03-07-2017-23-42-49.jpg"
+    },
+    {
+     "name": "Prasanna GK",
+     "crew_position": "Editor",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/prasanna-gk-1081746-10-04-2017-18-42-42.jpg"
+    }
+   ]
+  },
+  {
+   "movie_name": "Yeh Jawaani Hai Deewani",
+   "movie_grade": "U",
+   "languages": "Hindi",
+   "banner_image_url": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@heart_202006300400.png,ox-24,oy-617,ow-29:ote-ODAlICAxayB2b3Rlcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-70/et00012104-adpkkledrr-portrait.jpg",
+   "cover_image_url":"https://in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/yeh-jawaani-hai-deewani-et00012104-09-11-2020-02-58-18.jpg",
+   "rating":{"percentage":80,
+    "no_of_ratings": 1.9},
+   "movie_duration":"2h 41m",
+   "release_date":"31 May, 2013",
+   "is_premier":false,
+   "movie_genre": [
+    {
+     "genre": "Romantic"
+    }
+   ],
+   "about_movie": "A free-spirited Bunny aspires to become a travel reporter and does not wish to get married, until he reunites with his shy and nerdy classmate Naina, and falls in love with her.",
+   "cast": [
+    {
+     "original_name": "Ranbir Kapoor",
+     "character": "as Kabir Thapar AKA Bunny",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/ranbir-kapoor-2817-14-09-2017-01-46-00.jpg"
+    },
+    {
+     "original_name": "Deepika Padukone",
+     "character": "as Naina Talwar",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/deepika-padukone-2822-12-09-2017-06-31-43.jpg"
+    },
+    {
+     "original_name": "Aditya Roy Kapur",
+     "character": "as Avi",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/aditya-roy-kapur-1046800-12-09-2017-06-00-23.jpg"
+    },
+    {
+     "original_name": "Kalki Koechlin",
+     "character": "as Aditi",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/kalki-koechlin-6435-20-09-2017-01-07-33.jpg"
+    },
+    {
+     "original_name": "Kunaal Roy Kapur",
+     "character": "as Taran",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/kunaal-roy-kapur-6759-27-08-2017-10-47-51.jpg"
+    },
+    {
+     "original_name": "Tanvi Azmi",
+     "character": "Actor",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/tanvi-azmi-23644-21-12-2020-12-18-42.jpg"
+    },
+    {
+     "original_name": "Naveen Kaushik",
+     "character": "Actor",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/naveen-kaushik-32944-24-03-2017-16-02-56.jpg"
+    },
+    {
+     "original_name": "Evelyn Sharma",
+     "character": "Actor",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/evelyn-sharma-30187-24-03-2017-17-35-07.jpg"
+    },
+    {
+     "original_name": "Farooq Shaikh",
+     "character": "Actor",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/farooq-shaikh-4552-24-03-2017-17-34-23.jpg"
+    },
+    {
+     "original_name": "Dolly Ahluwalia",
+     "character": "Actor",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/dolly-ahluwalia-8825-13-09-2017-01-03-29.jpg"
+    },
+    {
+     "original_name": "Madhuri Dixit",
+     "character": "Actor",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/madhuri-dixit-1318-29-09-2016-01-48-46.jpg"
+    },
+    {
+     "original_name": "Rana Daggubati",
+     "character": "as Vikram",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/rana-daggubati-16342-19-09-2017-01-56-33.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "name": "Ayan Mukerji",
+     "crew_position": "Director, Writer, Screenplay",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/ayan-mukherjee-12848-24-03-2017-15-52-53.jpg"
+    },
+    {
+     "name": "Karan Johar",
+     "crew_position": "Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/karan-johar-1147-23-09-2017-12-55-15.jpg"
+    },
+    {
+     "name": "Hiroo Johar",
+     "crew_position": "Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/hiroo-johar-iein019911-24-04-2017-16-28-15.jpg"
+    },
+    {
+     "name": "Pritam Chakraborty",
+     "crew_position": "Musician",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/pritam-chakraborty-1731-24-03-2017-17-41-56.jpg"
+    },
+    {
+     "name": "Farah Khan",
+     "crew_position": "Choreographer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/farah-khan-3008-26-09-2017-04-50-11.jpg"
+    },
+    {
+     "name": "Marijke Desouza",
+     "crew_position": "Executive Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/marijke-desouza-iein033700-24-03-2017-14-34-40.jpg"
+    },
+    {
+     "name": "Parth Arora",
+     "crew_position": "Executive Producer",
+     "crew_image": ""
+    },
+    {
+     "name": "S.Manikandan",
+     "crew_position": "Cinematographer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/v-manikandan-iein019839-24-03-2017-17-36-47.jpg"
+    },
+    {
+     "name": "Akiv Ali",
+     "crew_position": "Editor",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/akiv-ali-iein009681-24-03-2017-14-13-42.jpg"
+    }
+   ]
+  },
+  {
+   "movie_name": "Uppena",
+   "movie_grade": "UA",
+   "languages": "Telugu",
+   "banner_image_url": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@heart_202006300400.png,ox-24,oy-617,ow-29:ote-NzglICA5M2sgdm90ZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70/et00102429-yrmyuernpl-portrait.jpg",
+   "cover_image_url":"https://in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/uppena-et00102429-08-05-2019-12-24-20.jpg",
+   "rating":{"percentage":78,
+    "no_of_ratings": 93},
+   "movie_duration":"2h 28m",
+   "release_date":"12 Mar, 2021",
+   "is_premier":false,
+   "movie_genre": [
+    {
+     "genre": "Action"
+    },
+    {
+     "genre": "Drama"
+    },
+    {
+     "genre": "Romantic"
+    }
+   ],
+   "about_movie": "Uppena is a love story between Panja Vaissnav Tej, a boy from the fisherman community and an upper-class girl, Krithi Shetty, who are willing to fight for their love amidst social stigma, political oppression and status difference between them.",
+   "cast": [
+    {
+     "original_name": "Vijay Sethupathi",
+     "character": "as Rayanam",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/vijay-sethupathi-32355-16-09-2017-03-30-38.jpg"
+    },
+    {
+     "original_name": "Krithi Shetty",
+     "character": "as Sangeeta",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/krithi-shetty-iein046494-24-03-2017-14-57-28.jpg"
+    },
+    {
+     "original_name": "Panja Vaishnav Tej",
+     "character": "as Aasi",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/panja-vaishnav-tej-1267942-01-02-2021-01-11-30.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "name": "Buchi Babu Sana",
+     "crew_position": "Director, Writer, Screenplay, Dialogue Writer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/buchi-babu-sana-iein090771-01-02-2021-13-12-28.jpg"
+    },
+    {
+     "name": "Naveen Yerneni",
+     "crew_position": "Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/naveen-yerneni-1261037-29-10-2018-11-21-22.jpg"
+    },
+    {
+     "name": "Sukumar Bandreddi",
+     "crew_position": "Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/sukumar-bandreddi-2278-19-09-2017-01-42-20.jpg"
+    },
+    {
+     "name": "Y. Ravi Shankar",
+     "crew_position": "Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/y.-ravi-shankar-iein083126-24-03-2017-17-48-56.jpg"
+    },
+    {
+     "name": "Devi Sri Prasad",
+     "crew_position": "Musician",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/devi-sri-prasad-577-24-03-2017-17-32-30.jpg"
+    },
+    {
+     "name": "Navin Nooli",
+     "crew_position": "Editor",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/naveen-nooli-1076413-24-03-2017-13-42-50.jpg"
+    }
+   ]
+  },
+  {
+   "movie_name": "The War with Grandpa",
+   "movie_grade": "U",
+   "languages": "English",
+   "banner_image_url": "https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/war-with-grandpa-et00137318-18-09-2020-11-23-08.jpg",
+   "cover_image_url":"https://in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/war-with-grandpa-et00137318-18-09-2020-11-23-08.jpg",
+   "rating":{"percentage":74,
+    "no_of_ratings": 10},
+   "movie_duration":"1h 38m",
+   "release_date":"20 Nov, 2020",
+   "is_premier":false,
+   "movie_genre": [
+    {
+     "genre": "Comedy"
+    },
+    {
+     "genre": "Drama"
+    },
+    {
+     "genre": "Family"
+    }
+   ],
+   "about_movie": "Forced to give up his room to his grandfather, a scheming boy devises a series of outrageous pranks in an attempt to make him move out.",
+   "cast": [
+    {
+     "original_name": "Robert De Niro",
+     "character": "as Ed",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/robert-de-niro-1900-24-03-2017-12-30-55.jpg"
+    },
+    {
+     "original_name": "Uma Thurman",
+     "character": "as Sally",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/uma-thurman-2417-29-04-2020-11-52-03.jpg"
+    },
+    {
+     "original_name": "Christopher Walken",
+     "character": "as Jerry",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/christopher-walken-450-24-03-2017-12-31-26.jpg"
+    },
+    {
+     "original_name": "Jane Seymour",
+     "character": "as Diane",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/jane-seymour-2762-24-03-2017-17-39-55.jpg"
+    },
+    {
+     "original_name": "Rob Riggle",
+     "character": "as Arthur",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/rob-riggle-27562-24-03-2017-17-59-00.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "name": "Tim Hill",
+     "crew_position": "Director",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/tim-hill-2370-18-11-2020-03-15-23.jpg"
+    },
+    {
+     "name": "Aaron Zigman",
+     "crew_position": "Musician",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/aaron-zigman-1043543-29-07-2020-05-34-58.jpg"
+    },
+    {
+     "name": "Tom J. Astle",
+     "crew_position": "Screenplay",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/tom-j-astle-6525-18-11-2020-03-19-00.jpg"
+    },
+    {
+     "name": "Matt Ember",
+     "crew_position": "Screenplay",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/matt-ember-35812-18-11-2020-03-20-24.jpg"
+    }
+   ]
+  },
+  {
+   "movie_name": "The Girl With a Bracelet",
+   "languages": "French",
+   "movie_grade": "13+",
+   "banner_image_url": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:oi-discovery-catalog@@icons@@premiere-icon.png,ox-322,oy-20/et00300231-wmuqplxlyv-portrait.jpg",
+   "cover_image_url":"https://in.bmscdn.com/iedb/movies/images/extra/horizontal_no_logo/mobile/listing/xxlarge/the-girl-with-a-bracelet-et00300231-20-02-2021-11-53-13.jpg",
+   "rating":"",
+   "movie_duration":"1h 35m",
+   "release_date":"12 Feb, 2020",
+   "is_premier":true,
+   "movie_genre": [
+    {
+     "genre": "Crime"
+    },
+    {
+     "genre": "Drama"
+    },
+    {
+     "genre": "Thriller"
+    }
+   ],
+   "about_movie": "Sixteen year old Lise is accused of murdering her best friend. Her parents stand by her, but once in court, her secret life begins to unfold. Do we really know the ones we love?",
+   "cast": [
+    {
+     "original_name": "Roschdy Zem",
+     "character": "as Bruno Bataille",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/roschdy-zem-3466-02-11-2020-06-07-27.jpg"
+    },
+    {
+     "original_name": "Chiara Mastroianni",
+     "character": "as Celine Bataille",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/chiara-mastroianni-6663-02-11-2020-06-09-37.jpg"
+    },
+    {
+     "original_name": "Melissa Guers",
+     "character": "as Lise Bataille",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/melissa-guers-2010313-02-11-2020-06-11-29.jpg"
+    },
+    {
+     "original_name": "Anaïs Demoustier",
+     "character": "as Advocate General",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/ana_s-demoustier-2011790-15-02-2021-05-06-21.jpg"
+    },
+    {
+     "original_name": "Annie mercier",
+     "character": "Actor",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/annie-mercier-2011792-15-02-2021-05-07-52.jpg"
+    },
+    {
+     "original_name": "Pascal Garbarini",
+     "character": "Actor",
+     "cast_image": "https://in.bookmyshow.com/national-capital-region-ncr/movies/the-girl-with-a-bracelet/ET00300231"
+    }
+   ],
+   "crew": [
+    {
+     "name": "Stephane Demoustier",
+     "crew_position": "Director",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/stephane-demoustier-2010314-02-11-2020-06-13-25.jpg"
+    },
+    {
+     "name": "Jean des Forêts",
+     "crew_position": "Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/jean-des-for_ts-2011795-15-02-2021-05-11-45.jpg"
+    },
+    {
+     "name": "Carla Pallone",
+     "crew_position": "Musician",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/carla-pallone-2011796-15-02-2021-05-16-38.jpg"
+    },
+    {
+     "name": "Sylvain Verdet",
+     "crew_position": "Cinematographer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/sylvain-verdet-2011797-15-02-2021-05-18-04.jpg"
+    },
+    {
+     "name": "Damien Maestraggi",
+     "crew_position": "Editor",
+     "crew_image": ""
+    }
+   ]
+  },
+  {
+   "movie_name": "The Villainess",
+   "languages": "Korean",
+   "movie_grade": "18+",
+   "banner_image_url": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:oi-discovery-catalog@@icons@@premiere-icon.png,ox-322,oy-20/et00303977-eyepaxscwg-portrait.jpg",
+   "cover_image_url":"https://in.bmscdn.com/iedb/movies/images/extra/horizontal_no_logo/mobile/listing/xxlarge/the-villainess-et00303977-03-03-2021-04-07-54.jpg",
+   "rating":"",
+   "movie_duration":"2h 03m",
+   "release_date":"08 Jun, 2017",
+   "is_premier":true,
+   "movie_genre": [
+    {
+     "genre": "Action"
+    },
+    {
+     "genre": "Crime"
+    },
+    {
+     "genre": "Drama"
+    }
+   ],
+   "about_movie": "Sook-hee, a trained assassin, is asked for ten years of service to the government in return for freedom. But her past catches up with her and she takes matters into her own hands.",
+   "cast": [
+    {
+     "original_name": "Kim Ok-bin",
+     "character": "as Sook-hee",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/kim-ok-bin-2011134-12-01-2021-08-57-35.jpg"
+    },
+    {
+     "original_name": "Shin Ha-kyun",
+     "character": "as Joong-sang",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/shin-ha-kyun-2011135-12-01-2021-08-59-43.jpg"
+    },
+    {
+     "original_name": "Jun Sung",
+     "character": "as Hyun-soo",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/jun-sung-2011295-12-01-2021-09-03-00.jpg"
+    },
+    {
+     "original_name": "Seo-hyeong Kim",
+     "character": "as Chief Kwon",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/seo-hyeong-kim-2011629-09-02-2021-11-42-49.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "name": "Byung-gil Jung",
+     "crew_position": "Director",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/byung-gil-jung-2011136-12-01-2021-09-05-42.jpg"
+    },
+    {
+     "name": "Jawan Koo",
+     "crew_position": "Musician",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/jawan-koo-2011630-09-02-2021-11-45-19.jpg"
+    },
+    {
+     "name": "Jung-hun Park",
+     "crew_position": "Cinematographer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/jung-hun-park-2011631-09-02-2021-11-47-13.jpg"
+    },
+    {
+     "name": "Sun-Mi Heo",
+     "crew_position": "Editor",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/sun-mi-heo-2011632-09-02-2021-11-49-41.jpg"
+    }
+   ]
+  },
+  {
+   "movie_name": "Ride Like A Girl",
+   "languages": "English",
+   "movie_grade": "U",
+   "banner_image_url": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:oi-discovery-catalog@@icons@@premiere-icon.png,ox-322,oy-20/et00302316-cmpuvsddas-portrait.jpg",
+   "cover_image_url":"https://in.bmscdn.com/iedb/movies/images/extra/horizontal_no_logo/mobile/listing/xxlarge/ride-like-a-girl-et00302316-08-03-2021-07-47-14.jpg",
+   "rating":"",
+   "movie_duration":"1h 38m",
+   "release_date":"18 Sep, 2019",
+   "is_premier":true,
+   "movie_genre": [
+    {
+     "genre": "Biography"
+    },
+    {
+     "genre": "Drama"
+    },
+    {
+     "genre": "Sports"
+    }
+   ],
+   "about_movie": "Based on a true story, Ride Like A Girl revolves around Michelle Payne who is told she cannot be a world class jockey but fights for every opportunity to ride hard and race fast.",
+   "cast": [
+    {
+     "original_name": "Teresa Palmer",
+     "character": "as Michelle Payne",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/teresa-palmer-2349-24-03-2017-12-42-39.jpg"
+    },
+    {
+     "original_name": "Sam Neill",
+     "character": "as Paddy Payne",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/sam-neill-16188-24-03-2017-12-38-03.jpg"
+    },
+    {
+     "original_name": "Sullivan Stapleton",
+     "character": "as Darren Weir",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/sullivan-stapleton-36179-24-03-2017-17-31-51.jpg"
+    },
+    {
+     "original_name": "Magda Szubanski",
+     "character": "as Dominique",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/magda-szubanski-iein105458-09-02-2021-11-41-27.jpg"
+    },
+    {
+     "original_name": "Mick Molloy",
+     "character": "as Bairdy",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/mick-molloy-iein102765-09-02-2021-11-43-59.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "name": "Rachel Griffiths",
+     "crew_position": "Director, Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/rachel-griffiths-11638-24-03-2017-12-42-11.jpg"
+    },
+    {
+     "name": "Andrew Knight",
+     "crew_position": "Writer, Screenplay",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/andrew-knight-1055068-24-03-2017-16-16-17.jpg"
+    },
+    {
+     "name": "David Hirschfelder",
+     "crew_position": "Musician",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/david-hirschfelder-21325-08-02-2021-03-35-21.jpg"
+    }
+   ]
+  },
+  {
+   "movie_name": "Shirley",
+   "languages": "English",
+   "movie_grade": "18+",
+   "banner_image_url": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:oi-discovery-catalog@@icons@@premiere-icon.png,ox-322,oy-20/et00132352-byvbwgqchq-portrait.jpg",
+   "cover_image_url":"https://in.bmscdn.com/iedb/movies/images/extra/horizontal_no_logo/mobile/listing/xxlarge/shirley-et00132352-28-02-2021-03-49-04.jpg",
+   "rating":"",
+   "movie_duration":"1h 47m",
+   "release_date":"05 Jun, 2020",
+   "is_premier":true,
+   "movie_genre": [
+    {
+     "genre": "Biography"
+    },
+    {
+     "genre": "Drama"
+    },
+    {
+     "genre": "Thriller"
+    }
+   ],
+   "about_movie": "A renowned writer of horror is looking for inspiration when newlyweds come to stay with her and her husband. Things change when she uses them as fodder for her story.",
+   "cast": [
+    {
+     "original_name": "Elisabeth Moss",
+     "character": "as Shirley Jackson",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/elisabeth-moss-15813-13-03-2018-06-29-34.jpg"
+    },
+    {
+     "original_name": "Odessa Young",
+     "character": "as Rose Nemser / Paula",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/odessa-young-2011230-08-01-2021-05-09-26.jpg"
+    },
+    {
+     "original_name": "Logan Lerman",
+     "character": "as Fred",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/logan-lerman-9002-24-03-2017-17-39-18.jpg"
+    },
+    {
+     "original_name": "Michael Stuhlbarg",
+     "character": "as Stanley Hyman",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/michael-stuhlbarg-27445-24-03-2017-17-32-44.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "name": "Josephine Decker",
+     "crew_position": "Director",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/josephine-decker-2009099-08-01-2021-05-14-30.jpg"
+    },
+    {
+     "name": "Christine Vachon",
+     "crew_position": "Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/christine-vachon-iein028400-24-03-2017-14-22-06.jpg"
+    },
+    {
+     "name": "Elisabeth Moss",
+     "crew_position": "Producer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/elisabeth-moss-15813-13-03-2018-06-29-34.jpg"
+    },
+    {
+     "name": "Sturla Brandth Grøvlen",
+     "crew_position": "Cinematographer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/sturla-brandth-gr_vlen-2012095-02-03-2021-08-04-00.jpg"
+    },
+    {
+     "name": "David Barker",
+     "crew_position": "Editor",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/david-barker-2012096-02-03-2021-08-05-53.jpg"
+    }
+   ]
+  },
+  {
+   "movie_name": "Woman",
+   "languages": "English",
+   "movie_grade": "18+",
+   "banner_image_url": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:oi-discovery-catalog@@icons@@premiere-icon.png,ox-322,oy-20/et00303975-ulggsamxvd-portrait.jpg",
+   "cover_image_url":"https://in.bmscdn.com/iedb/movies/images/extra/horizontal_no_logo/mobile/listing/xxlarge/woman-et00303975-08-03-2021-08-48-54.jpg",
+   "rating":"",
+   "movie_duration":"1h 48m",
+   "release_date":"04 Mar, 2020",
+   "is_premier":true,
+   "movie_genre": [
+    {
+     "genre": "Documentary"
+    }
+   ],
+   "about_movie": "A documentary, `Woman` is a worldwide project giving voice to 2000 women in 50 different countries.",
+   "cast": [
+    {
+     "original_name": "Norma Bastidas",
+     "character": "as Self",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/norma-bastidas-2011130-06-03-2021-01-42-40.jpg"
+    },
+    {
+     "original_name": "Gabriela Melgoza",
+     "character": "as Self",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/gabriela-melgoza-2011131-06-03-2021-01-44-02.jpg"
+    },
+    {
+     "original_name": "Shantel Nasir",
+     "character": "as Self",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/shantel-nasir-2011302-06-03-2021-01-45-06.jpg"
+    },
+    {
+     "original_name": "Aleksandra Orbeck-Nilssen",
+     "character": "as Self",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/aleksandra-orbeck-nilssen-2012218-06-03-2021-01-46-59.jpg"
+    },
+    {
+     "original_name": "Virginie Raisson",
+     "character": "as Self",
+     "cast_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/virginie-raisson-2012219-06-03-2021-01-52-25.jpg"
+    }
+   ],
+   "crew": [
+    {
+     "name": "Yann Arthus-Bertrand",
+     "crew_position": "Director, Producer, Writer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/yann-arthus-bertrand-2011132-13-01-2021-01-12-03.jpg"
+    },
+    {
+     "name": "Anastasia Mikova",
+     "crew_position": "Director, Writer",
+     "crew_image": "https://in.bmscdn.com/iedb/artist/images/website/poster/large/anastasia-mikova-2011133-13-01-2021-01-13-46.jpg"
+    }
+   ]
+  }
+ ]
