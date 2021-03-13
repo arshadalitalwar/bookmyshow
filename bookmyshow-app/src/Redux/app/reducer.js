@@ -30,6 +30,8 @@ const initState = {
     isAuth: loadData("auth") || false
 }
 
+
+
 export const reducer = (state = initState, { type, payload, city, auth }) => {
     switch (type) {
         case "cityChange": {
@@ -45,7 +47,6 @@ export const reducer = (state = initState, { type, payload, city, auth }) => {
             }
         }
         case GET_MOVIES_SUCCESS: {
-            console.log(payload.data)
             return {
                 ...state,
                 movies_data: payload,

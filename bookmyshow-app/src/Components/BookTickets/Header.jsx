@@ -12,11 +12,11 @@ export const Header = () => {
     const isLoading = useSelector(state => state.data.isLoading);
     const isError = useSelector(state => state.data.isError);
     const dispatch = useDispatch();
-    // console.log(movie)
-
 
     useEffect(() => {
-        if (movie) { dispatch(handleAddMovieName(movie.movie_name)) }
+        if (movie) {
+            dispatch(handleAddMovieName(movie.movie_name, movie.movie_grade, movie.banner_image_url))
+        }
     }, [movie])
 
     const responsive = {

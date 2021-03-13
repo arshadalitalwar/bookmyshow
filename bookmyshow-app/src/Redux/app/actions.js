@@ -32,7 +32,6 @@ const getMoviesRequest = () => {
     }
 }
 const getMoviesSuccess = (payload) => {
-    console.log(payload)
     return {
         type: GET_MOVIES_SUCCESS,
         payload

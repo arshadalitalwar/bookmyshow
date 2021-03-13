@@ -7,10 +7,14 @@ import {
 } from "./actionTypes"
 
 
-export const handleAddMovieName = (movie_name) => {
+export const handleAddMovieName = (movie_name, movie_grade, banner_image_url) => {
     return {
         type: ADD_MOVIE_NAME,
-        payload: movie_name
+        payload: {
+            movie_name,
+            banner_image_url,
+            movie_grade
+        }
     }
 }
 

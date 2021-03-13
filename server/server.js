@@ -14,16 +14,17 @@ const connect = () => {
 };
 const bookingSchema = new mongoose.Schema({
   movie_name: String,
-  date_and_time: String,
-  cinemas: String,
-  language: String,
-  screen_type: String,
-  grade: String,
-  no_of_tickets: Number,
-  price_per_one: Number,
-  food: Array,
-  seat_numbers: Array,
-  pricing_type: String,
+  silver: Array,
+  date: Number,
+  day: String,
+  time: String,
+  cinemas_name: String,
+  silver: Array,
+  platinium: Array,
+  price: Number,
+  total_price: Number,
+  banner_image_url: String,
+  movie_grade: String
 });
 const Booking = mongoose.model("booking", bookingSchema);
 

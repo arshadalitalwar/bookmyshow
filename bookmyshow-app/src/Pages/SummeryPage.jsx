@@ -57,7 +57,7 @@ export default function SummaryPage({ foodModalOpen, handleCloseFoodModal }) {
     setTotalFood(sum)
   }, [foodArray])
 
-  console.log(foodArray, totalFood)
+  // console.log(foodArray, totalFood)
   const handleClickOpen = () => {
     setOpen(true);
   };

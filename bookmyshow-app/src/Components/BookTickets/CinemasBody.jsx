@@ -52,7 +52,7 @@ export const CinemasBody = ({ filters }) => {
     const currentTime = time.split(":").map(Number).shift();
     // const currentMinutes = +time.split(":")[1].split(" ").shift();
     // console.log(typeof currentMinutes);
-    console.log(amOrPm)
+    // console.log(amOrPm)
 
     const [visible, setVisible] = useState(false);
     const [confirmLoading, setConfirmLoading] = useState(false);

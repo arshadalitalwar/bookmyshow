@@ -1,0 +1,159 @@
+.ticket {
+    width: 400px;
+    /* padding: 15px; */
+    background-color: white;
+    border-radius: 5px;
+    margin: 15px 10px;
+    cursor: pointer;
+}
+
+.ticket__top {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 10px 15px;
+    padding-bottom: 15px;
+}
+
+/* .ticket__top__image,
+.ticket__top__info {
+    width: 50%;
+} */
+
+
+.ticket__top__image>img {
+    width: 80px;
+}
+
+.ticket__top__info {
+    margin-left: 15px;
+}
+
+.ticket__top__info>div>span {
+    font-size: 18px;
+}
+
+.ticket__top__info>div:nth-of-type(1)>span {
+    font-weight: 700;
+}
+
+.ticket__bottom {
+    border-top: 1px solid gray;
+    padding: 5px 15px;
+    position: relative;
+}
+
+.ticket__bottom__left__circle,
+.ticket__bottom__right__circle {
+    position: absolute;
+    top: -15%;
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    background-color: #293144;
+}
+
+.ticket__bottom__left__circle {
+    left: -3%;
+}
+
+.ticket__bottom__right__circle {
+    right: -3%;
+}
+
+.ticket__bottom__info {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    position: relative;
+}
+
+.ticket__bottom__info__number {
+    background-color: #F84464;
+    padding: 5px 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+}
+
+.ticket__bottom__info__number>h1 {
+    font-size: 25px;
+    margin: 0;
+    font-weight: 600;
+    color: white;
+}
+
+.ticket__bottom__info__number>p {
+    margin: 0;
+}
+
+.ticket__bottom__info__seats {
+    font-size: 13px;
+    margin-left: 40px;
+    font-style: italic;
+}
+
+.ticket__bottom__info__seats>span {
+    font-weight: 600;
+}
+
+.ticket__bottom__info__stamp {
+    position: absolute;
+    left: 80%;
+    top: -30%;
+}
+
+.ticket__bottom__info__stamp>div:nth-of-type(1) {
+    padding: 4px;
+    border: 1px solid #4abd5d;
+    transform: rotateZ(-45deg);
+    border-radius: 15px;
+    position: absolute;
+    left: -48%;
+    top: 3%;
+}
+
+.ticket__bottom__info__stamp>div:nth-of-type(1)>div {
+    padding: 33px;
+    border: 1px solid #4abd5d;
+    transform: rotateZ(0deg);
+    border-radius: 15px;
+}
+
+.ticket__bottom__info__stamp>div:nth-of-type(2) {
+    /* position: absolute; */
+    /* left: -100%;
+    top: -25%; */
+    text-align: center;
+}
+
+.ticket__bottom__info__stamp__text {
+    margin: 0;
+    font-size: 12px;
+    color: #448b50;
+    /* transform: rotateZ(45deg); */
+}
+
+.container {
+    padding: 0 6%;
+    margin: auto;
+    background-image: url("https://in.bmscdn.com/webin/profile/user-profile.png");
+}
+
+.container>div {
+    padding: 10px 0px;
+}
+
+.container>div>h1 {
+    color: white;
+    font-size: 25px;
+    padding-top: 15px;
+}
+
+.ticket__container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    margin: 10px 0;
+}
