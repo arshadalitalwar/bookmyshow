@@ -1,12 +1,14 @@
 const express = require("express");
 const mongoose = require("mongoose");
+require("dotenv").config()
+
 
 const app = express();
 
 app.use(express.json());
 
 const connect = () => {
-  return mongoose.connect("mongodb://localhost:27017/bookmyshow", {
+  return mongoose.connect(process.env.DATABASE, {
     useNewUrlParser: true,
     useCreateIndex: true,
     useUnifiedTopology: true,

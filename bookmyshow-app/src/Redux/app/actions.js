@@ -46,7 +46,7 @@ const getMoviesFailure = (error) => {
 
 export const getMovies = () => (dispatch) => {
     dispatch(getMoviesRequest);
-    return axios.get("http://localhost:8000/movies")
+    return axios.get("https://bookmyshow-clone-masai.herokuapp.com/movies")
         .then(res => dispatch(getMoviesSuccess(res.data.data)))
         .catch(error => dispatch(getMoviesFailure(error)));
 }
@@ -73,7 +73,7 @@ const getOutdoorEventsFailure = () => {
 
 export const getOutdoorEvents = () => dispatch => {
     dispatch(getOutdoorEventsRequest());
-    return axios.get("http://localhost:8000/outdoor")
+    return axios.get("https://bookmyshow-clone-masai.herokuapp.com/outdoor")
         .then(res => dispatch(getOutdoorEventsSuccess(res.data.data)))
         .catch(error => dispatch(getOutdoorEventsFailure(error)))
 }
@@ -98,7 +98,7 @@ const getLaughterEventsFailure = () => {
 
 export const getLaughterEvents = () => dispatch => {
     dispatch(getLaughterEventsRequest());
-    return axios.get("http://localhost:8000/laughter")
+    return axios.get("https://bookmyshow-clone-masai.herokuapp.com/laughter")
         .then(res => dispatch(getLaughterEventsSuccess(res.data.data)))
         .catch(error => dispatch(getLaughterEventsFailure(error)))
 }
@@ -123,7 +123,7 @@ const getPopularEventsFailure = () => {
 
 export const getPopularEvents = () => dispatch => {
     dispatch(getPopularEventsRequest());
-    return axios.get("http://localhost:8000/popular")
+    return axios.get("https://bookmyshow-clone-masai.herokuapp.com/popular")
         .then(res => dispatch(getPopularEventsSuccess(res.data.data)))
         .catch(error => dispatch(getPopularEventsFailure(error)))
 }
@@ -149,7 +149,7 @@ const getLatestEventsFailure = () => {
 
 export const getLatestEvents = () => dispatch => {
     dispatch(getLatestEventsRequest());
-    return axios.get("http://localhost:8000/outdoor")
+    return axios.get("https://bookmyshow-clone-masai.herokuapp.com/outdoor")
         .then(res => dispatch(getLatestEventsSuccess(res.data.data)))
         .catch(error => dispatch(getLatestEventsFailure(error)))
 }

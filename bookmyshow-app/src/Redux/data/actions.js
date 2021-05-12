@@ -25,7 +25,7 @@ const getMovieFailure = (error) => {
 export const getMovies = (id) => (dispatch) => {
   dispatch(getMovieRequest());
   return axios
-    .get(`http://localhost:8000/movies/${id}`)
+    .get(`https://bookmyshow-clone-masai.herokuapp.com/movies/${id}`)
     .then((res) => {
       dispatch(getMovieSuccess(res.data));
     })
@@ -36,7 +36,7 @@ export const putMovies = (id, param) => (dispatch) => {
   // console.log(id, param);
   // dispatch(getMovieRequest());
   return axios
-    .patch(`http://localhost:8000/movies/${id}`, param)
+    .patch(`https://bookmyshow-clone-masai.herokuapp.com/movies/${id}`, param)
     .then((res) => {
       dispatch(getMovies(id));
     })
