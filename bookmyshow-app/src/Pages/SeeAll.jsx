@@ -150,7 +150,7 @@ const SeeAll = () => {
                         <div onClick={() => SetFormate(!formate)}>
                             {!formate && <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 10"><path fill="none" stroke="#666666" stroke-width="1.5" d="M335 3L342 9.5 335 16" transform="rotate(90 175.5 -158.5)"></path></svg>}
                             {formate && <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 10"><path fill="none" stroke="#e67088" stroke-width="1.5" d="M335 3L342 9.5 335 16" transform="matrix(0 -1 -1 0 17 344)"></path></svg>}
-                            <span style={{ marginLeft: '10px', color: `${!formate ? 'black' : '#e67088'}` }}>Formate</span>
+                            <span style={{ marginLeft: '10px', color: `${!formate ? 'black' : '#e67088'}` }}>Format</span>
                         </div>
                         <div onClick={() => handleClear("formate")}>Clear</div>
                     </div>
